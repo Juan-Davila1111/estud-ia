@@ -1,0 +1,501 @@
+id_pedido,fecha,hora,cliente,producto,cantidad,precio_unitario,metodo_pago,ciudad,calificacion,notas
+,8/9/2023,11:26 PM,Cralos Morales,Latte,1,7800.0,,,,
+PED-0002,28-6-23,7:42 AM,oSfía Díaz,Té verde,5,5100.0,EFECTIVO,medellin,,doble shot
+PED-0003,25/1/2020,18:17,uJan Vargas,Latte,5,11700.0,transferencia,Pereira,3,muy rico!
+PED-0004,11-6-2022,20h33,aCrlos Castro,Machiato,4,9900.0,transferencia,,5,sin azúcar
+PED-0005,25 Sep 2019,9h59,Valnetina Martínez,,5,,,Pereira,5,para llevar
+PED-0006,22112021,8:07 PM,Dvaid Ramos,,4,6700.0,Tarjeta,,2,
+PED-0007,2019/7/2,1929,aMría Díaz,,3,7400.0,DaviPlata,Cartagena,5,
+PED-0008,2020/25/4,12.55,Carols Torres,Espresso,3,,,medellin,,muy rico!
+PED-0009,3-3-2019,13:25,,Cappuccino,5,5300.0,EFECTIVO,,bueno,muy rico!
+PED-0010,9/3/2020,17:56,Paual Castro,Té verde,2,6300.0,Efectivo,Pereira,,caliente porfavor
+PED-0011,9/9/2022,7:05am,Calros Rodríguez,Latte,2,16500.0,tarjeta débito,,★★★★,
+PED-0012,8 nov 2019,7:39pm,,Espresso,,9500.0,tarjeta débito,,1,sin azúcar
+PED-0013,6-13-2021,2:22pm,,Latte,4,16100.0,,,4,
+PED-0014,18-11-24,8h42,Maíra Ortiz,Té verde,4,11400.0,transferencia,,,
+PED-0015,15-8-24,11:42,Mairana López,Chocolate caliente,2,8600.0,DaviPlata,,★★★★,caliente porfavor
+PED-0016,12-21-2019,1311,nAa González,Americano,4,14900.0,EFECTIVO,Cartagena,5,sin lactosa
+PED-0017,25-9-22,8h45,sIabella Rodríguez,Frappé,4,11900.0,,Barranquilla,4,
+,2022/12/5,23:51:00,,Cold brew,,15700.0,tarjeta débito,Cartagena,1,caliente porfavor
+PED-0019,11 abr 2022,1817,Lius García,Mahciato,,9800.0,Tarjeta,Medellín,bueno,
+PED-0020,3-12-2023,11:19,Davdi Díaz,Americano,2,12900.0,,medellin,1,
+PED-0021,16 feb 2022,8:45 PM,Feliep Castro,Machiato,1,,transferencia,,,
+PED-0022,7 jun 2021,14:35,Sofaí Vargas,Latte,3,7800.0,,,4,
+PED-0023,9-5-21,12:20,Puala Sánchez,Americano,4,8600.0,transferencia,,5,muy rico!
+PED-0024,1/4/2023,8:21 PM,aLura López,Té vedre,2,14100.0,Nequi,,cinco,para llevar
+PED-0025,10/28/2022,,Anrdés López,,,14800.0,Efectivo,,2,sin lactosa
+PED-0026,14-2-23,,Valetnina Muñoz,Cappuccino,2,8300.0,transferencia,Cartagena,5 estrellas,caliente porfavor
+,25/11/2021,11:30:00,Paual Vargas,Machiato,1,14400.0,EFECTIVO,Cali,5 estrellas,caliente porfavor
+PED-0028,2892019,12h33,eSbastián Sánchez,Cold brew,3,9900.0,,,cinco,
+PED-0029,5/23/2023,9:30 PM,Andrsé Ortiz,,3,,tarjeta débito,Pereira,1,extra caliente
+PED-0030,18 jul 2022,13.36,Aan Vargas,Cappuccino,3,15800.0,Nequi,Medellín,2,
+PED-0031,2/5/2022,18:41,Isaeblla Herrera,Machiato,3,16300.0,Efectivo,,,para llevar
+,26 ene 2021,10:15:00,,Mocha,2,,DaviPlata,,1,doble shot
+PED-0033,2024/19/5,20h54,aLura Ramírez,Cold brew,3,13500.0,,Barranquilla,3,
+PED-0034,2024.11.9,719,oJrge Flores,Machiato,1,14600.0,EFECTIVO,medellin,2,
+PED-0035,2024/22/12,23:23,Isabella González,Mocha,4,8500.0,,,4,para llevar
+,,13:56:00,Isaeblla Ramos,Machiato,5,12700.0,Tarjeta,,4,doble shot
+PED-0037,1/12/2022,954,aMriana Martínez,Mocha,1,7400.0,,Pereira,,
+PED-0038,22/1/2020,,,Americaon,2,6500.0,Tarjeta,,5 estrellas,muy rico!
+PED-0039,,2:39pm,Digeo Muñoz,Cappuccino,5,,Tarjeta,Pereira,4,extra caliente
+PED-0040,,,oJrge Ramos,Americano,4,7600.0,tarjeta débito,Barranquilla,4,
+PED-0041,4-5-23,2349,sIabella Gutiérrez,Cappuccino,3,9200.0,Nequi,medellin,bueno,extra caliente
+PED-0042,3/11/2021,8:56,nAa Torres,Té verde,1,6400.0,tarjeta débito,,,muy rico!
+PED-0043,3/7/2021,6:31am,Isabella Ramírez,Chocolate caliente,1,13700.0,Tarjeta,Medellín,1,
+PED-0044,,9.15,Digeo Herrera,,1,12300.0,Tarjeta,,4,
+PED-0045,2122020,20:43:00,Juna Herrera,Té evrde,3,15600.0,transferencia,BOGOTA,5 estrellas,para llevar
+PED-0046,26122019,12:20:00,Aan González,Mocha,4,5300.0,Tarjeta,,cinco,muy rico!
+,11-21-2021,23.43,,Cold brew,4,12700.0,transferencia,Barranquilla,4,
+,10 mar 2020,9:12 PM,Vlaentina Ortiz,Latte,3,13200.0,Efectivo,,,sin lactosa
+PED-0049,8/8/2023,20:14:00,Luara Jiménez,Chocolate caliente,2,15700.0,transferencia,Pereira,2,sin azúcar
+PED-0050,2019.5.4,2209,Sofaí Jiménez,Espresso,2,6400.0,EFECTIVO,Bogotá,3,extra caliente
+PED-0051,23/8/2022,6:16 AM,,Cappuccino,3,15800.0,Efectivo,,,
+PED-0052,3-14-2024,17:04:00,lAejandro Díaz,Latet,4,4700.0,transferencia,BOGOTA,5 estrellas,sin azúcar
+PED-0053,6112022,10:04am,Valnetina Martínez,Té verde,2,13000.0,transferencia,Pereira,3,
+PED-0054,2021.7.15,2123,aNtalia Morales,Cappuccino,2,,,BOGOTA,3,
+PED-0055,2019/21/1,11:01 AM,,Mocha,4,10300.0,tarjeta débito,Medellín,1,
+,2022/24/3,916,Mairana Vargas,,3,14800.0,Nequi,Cartagena,4,doble shot
+PED-0057,4-4-20,6:23:00,Iasbella Gutiérrez,Té evrde,3,11900.0,,Barranquilla,5 estrellas,para llevar
+PED-0058,5/7/2023,22h09,Soífa Ortiz,Latte,2,13200.0,transferencia,medellin,3,muy rico!
+PED-0059,2/1/2019,2:41 PM,Carols Castro,Latte,5,12500.0,tarjeta débito,Bogotá,,caliente porfavor
+PED-0060,9-12-2023,20h07,Aan Díaz,Espresso,4,10800.0,Nequi,,★★★★,
+PED-0061,,2138,sIabella González,Americano,2,11400.0,tarjeta débito,,,sin lactosa
+,4 jul 2021,5:48 PM,,Frappé,2,8400.0,,Pereira,5,caliente porfavor
+PED-0063,10 ago 2019,9:26:00,Carlso Vargas,Machiato,3,17900.0,DaviPlata,,★★★★,muy rico!
+PED-0064,14-3-22,2155,Jorge Ortiz,Frappé,5,9600.0,EFECTIVO,Cartagena,,extra caliente
+PED-0065,4/10/2021,21.20,Feilpe González,Té verde,5,14900.0,tarjeta débito,Cali,3,
+PED-0066,5-2-23,10:14pm,,,1,10500.0,Nequi,Cartagena,2,doble shot
+PED-0067,2019/27/3,11:59am,nAa Flores,Americano,3,13200.0,transferencia,Pereira,,sin azúcar
+PED-0068,10-10-24,18.52,María Pérez,,5,,tarjeta débito,medellin,bueno,
+PED-0069,12-17-2021,15:23:00,Luara Muñoz,Mocha,5,4700.0,,,1,
+PED-0070,18 mar 2020,8:07pm,Lusi Muñoz,Machiato,1,11600.0,,Pereira,,muy rico!
+,8/3/2019,10:49am,Naatlia Díaz,Mocha,1,15500.0,Tarjeta,Pereira,1,extra caliente
+PED-0072,2022/24/9,13h29,aMría Morales,Té verde,1,11800.0,DaviPlata,Bogotá,2,sin azúcar
+PED-0073,5-9-21,16:36:00,Soífa Rodríguez,Cold brew,5,16300.0,,,bueno,
+PED-0074,1072020,1319,Aan Morales,Espresso,4,5100.0,DaviPlata,Bogotá,4,
+PED-0075,24-11-23,16:19,Maraí Ramírez,Té verde,1,,DaviPlata,medellin,5,extra caliente
+PED-0076,14-1-23,6:16:00,Naatlia Rodríguez,Frappé,3,9400.0,DaviPlata,BOGOTA,4,
+PED-0077,17/1/2019,1908,Jorge García,Cold brwe,4,14400.0,,Pereira,,muy rico!
+,4/5/2020,,Sebsatián Ramírez,,5,11700.0,,Barranquilla,4,
+PED-0079,842024,8h43,,Cold brew,1,,tarjeta débito,medellin,3,extra caliente
+PED-0080,2-2-22,1638,uJan Torres,Americano,5,9800.0,tarjeta débito,,2,extra caliente
+PED-0081,2/4/2019,,Isablela Ortiz,Latte,5,,EFECTIVO,Medellín,bueno,para llevar
+PED-0082,8-9-2020,14h26,Felipe Ramírez,Chocolate caliente,1,12100.0,Nequi,Barranquilla,,sin lactosa
+PED-0083,2020/16/6,3:47pm,Soífa Díaz,Machiato,4,8900.0,DaviPlata,Pereira,5,
+PED-0084,2022.11.14,1:16pm,iDego Muñoz,Frappé,1,10700.0,tarjeta débito,BOGOTA,3,extra caliente
+PED-0085,22 nov 2022,,Aleajndro Muñoz,Frappé,5,5600.0,Nequi,Medellín,3,
+PED-0086,1282019,20:20,aMría Herrera,Mocha,4,5700.0,DaviPlata,Pereira,3,
+PED-0087,14-7-19,8:36,Caimla Sánchez,Frappé,4,7600.0,EFECTIVO,,bueno,caliente porfavor
+PED-0088,4-4-2021,10.32,Dieog Pérez,Latte,3,10700.0,Nequi,Cartagena,3,
+PED-0089,1672024,,,Espresso,3,12900.0,,Bogotá,4,sin lactosa
+PED-0090,25/4/2021,,Mraía Sánchez,Mocha,5,9500.0,tarjeta débito,Cali,bueno,
+PED-0091,2020/22/2,2:55pm,Sfoía Herrera,Americano,1,11700.0,,medellin,★★★★,doble shot
+PED-0092,1-19-2024,8:40pm,Isaeblla Sánchez,Chocolate caliente,,15200.0,EFECTIVO,BOGOTA,3,
+PED-0093,6/8/2022,7:12pm,,,5,15100.0,,medellin,,
+,2019/23/6,9:04 PM,aMría Herrera,Americano,4,,Nequi,,2,muy rico!
+PED-0095,2-3-2020,18.22,eFlipe Ramírez,Machiato,1,6700.0,Efectivo,medellin,5 estrellas,caliente porfavor
+PED-0096,3 Sep 2019,1024,Isabella Pérez,Machiato,5,9800.0,Efectivo,Medellín,2,extra caliente
+PED-0097,3-20-2021,10:58 PM,Jaun Ramos,Cappuccino,1,9900.0,Tarjeta,Barranquilla,4,
+PED-0098,2312020,2233,Cmaila Torres,Americano,1,,EFECTIVO,medellin,1,
+,11-19-2024,22:00,Ana Vargas,Mocha,5,11200.0,Efectivo,Barranquilla,,para llevar
+PED-0100,272019,15:20,Andrés Flores,Americano,4,8800.0,,,1,sin azúcar
+PED-0101,12-24-2021,13.26,,Frappé,2,,tarjeta débito,BOGOTA,1,sin azúcar
+PED-0102,11 jul 2024,14:14,,Latte,,6300.0,Tarjeta,,,para llevar
+PED-0103,12/7/2023,,Sebsatián González,Cold brew,3,5700.0,,,,
+PED-0104,26 mar 2019,8:03 PM,Dieog García,Chocolate caliente,3,,Nequi,Cartagena,,extra caliente
+PED-0105,7-11-23,23:50,Camlia Castro,Cappuccino,5,7800.0,EFECTIVO,,5,extra caliente
+PED-0106,4-4-24,7:48 AM,Digeo Pérez,Machiato,,15400.0,EFECTIVO,Medellín,4,caliente porfavor
+,8/10/2020,6:21:00,,Té verde,5,12100.0,Tarjeta,BOGOTA,4,para llevar
+PED-0108,18 dic 2023,11h24,aPula Ramos,Té verde,4,9000.0,Efectivo,BOGOTA,4,
+PED-0109,3 dic 2024,2:13 PM,aMría Martínez,Machiato,2,5900.0,tarjeta débito,Barranquilla,1,
+,,11.56,Luis Herrera,,1,15100.0,Nequi,Barranquilla,2,extra caliente
+,13102023,,,Latte,3,7100.0,Tarjeta,Bogotá,5,doble shot
+PED-0112,8/9/2022,14:36,aMría Jiménez,Chocolate caliente,4,,DaviPlata,Barranquilla,2,sin lactosa
+PED-0113,2024.10.26,8:11 PM,,Chocolate caliente,5,17100.0,Nequi,medellin,,sin azúcar
+PED-0114,2019/17/7,9:59,Valenitna Morales,Latte,1,9900.0,,medellin,bueno,sin azúcar
+PED-0115,6/1/2021,9:54pm,Sfoía Flores,Machiato,5,9900.0,transferencia,,,
+,2022.9.23,,,Ameriacno,4,15600.0,transferencia,Cartagena,3,muy rico!
+PED-0117,12-9-2024,6:03 PM,Adnrés Ramírez,Latte,1,11100.0,Efectivo,Medellín,4,
+PED-0118,12-8-21,22:52:00,Alejadnro Castro,Espresso,2,4600.0,Tarjeta,BOGOTA,3,doble shot
+PED-0119,26 oct 2022,6.41,Natlaia Díaz,Té verde,3,14100.0,DaviPlata,,5 estrellas,
+PED-0120,26 Sep 2020,1:22 PM,Jaun Torres,,3,15900.0,Efectivo,,2,
+PED-0121,762022,11:49,,Machiato,1,,Nequi,Cali,5,sin azúcar
+PED-0122,,6:40am,,Latte,2,13100.0,Tarjeta,medellin,,muy rico!
+PED-0123,26-7-19,,Maíra Martínez,Cold brew,5,9100.0,Efectivo,Medellín,3,
+PED-0124,7-10-2024,14:39:00,,Cappuccino,1,10100.0,DaviPlata,Pereira,4,
+,4102024,,Fleipe Muñoz,Té verde,4,5000.0,Tarjeta,Medellín,bueno,
+PED-0126,5-20-2024,16:11,Felpie Vargas,Té verde,3,6100.0,Tarjeta,Medellín,1,para llevar
+PED-0127,27122020,9.56,Juan García,Espresso,1,12500.0,DaviPlata,BOGOTA,2,
+PED-0128,1112020,1104,eFlipe Ortiz,Machiato,1,14300.0,,Cartagena,4,muy rico!
+PED-0129,2/27/2023,11:13pm,aCmila Ramírez,Cold brew,1,,,BOGOTA,,
+,,12:12,,Latte,1,7500.0,Tarjeta,Cartagena,3,
+PED-0131,2023.12.6,10.06,Juna Díaz,Machiato,5,11200.0,DaviPlata,BOGOTA,bueno,
+PED-0132,20 dic 2021,10:45am,Isabella Herrera,Cold brew,2,12600.0,tarjeta débito,Pereira,5,muy rico!
+PED-0133,1/5/2024,23h02,Isabelal Ramírez,Chocolate caliente,1,4800.0,transferencia,Medellín,2,para llevar
+PED-0134,28 ago 2020,23:47:00,Anrdés Muñoz,Chocolate caliente,4,17700.0,Nequi,Bogotá,1,
+PED-0135,1/20/2024,23:22,,Chocolate caliente,3,6300.0,,,★★★★,
+PED-0136,8-11-23,1624,,Té verde,3,7400.0,,medellin,5,
+PED-0137,11-7-2022,1941,oJrge Muñoz,,3,17300.0,transferencia,,5,extra caliente
+PED-0138,2 dic 2019,918,Valentian Díaz,Mocha,4,13000.0,DaviPlata,Barranquilla,cinco,
+PED-0139,2019/4/1,8:19 AM,Cmaila Morales,Frappé,3,6400.0,Nequi,medellin,3,sin azúcar
+,442024,5:08pm,aMriana Sánchez,Espresso,5,16000.0,transferencia,Cali,4,extra caliente
+PED-0141,16 ago 2022,21:35,Fleipe Castro,Té verde,3,6800.0,Tarjeta,Pereira,4,
+PED-0142,7/12/2020,22:32,Sfoía Ortiz,Machiato,5,12500.0,Nequi,Cartagena,5,muy rico!
+PED-0143,,2240,Dvaid Díaz,Cappuccino,2,7600.0,Tarjeta,Barranquilla,5 estrellas,
+PED-0144,17-11-21,11:23:00,Sofaí Herrera,Americano,5,15500.0,DaviPlata,,,para llevar
+PED-0145,13/10/2023,3:05 PM,Luara Ramírez,Cappuccino,2,6700.0,Nequi,Pereira,,para llevar
+PED-0146,2022020,756,Lius Rodríguez,,4,5400.0,tarjeta débito,BOGOTA,cinco,muy rico!
+PED-0147,4/16/2019,23h26,,Farppé,4,15300.0,EFECTIVO,Bogotá,5,
+PED-0148,662023,15h36,oJrge Ramírez,Machiato,3,11700.0,DaviPlata,BOGOTA,4,sin lactosa
+,8/6/2019,6:39pm,aMriana Pérez,Machiato,1,,transferencia,,5 estrellas,caliente porfavor
+PED-0150,13-7-23,8:58,Isablela Jiménez,Americano,5,5000.0,DaviPlata,Barranquilla,,doble shot
+PED-0151,1952024,9:49 PM,Sebastiná Ramos,Mocha,2,,tarjeta débito,,cinco,doble shot
+PED-0152,2023.2.11,17:13:00,Andérs Sánchez,Americano,3,9300.0,DaviPlata,,3,extra caliente
+PED-0153,12102021,2:31 PM,Felpie Ramírez,Té verde,2,,tarjeta débito,,4,muy rico!
+PED-0154,19 feb 2021,14:11:00,Mairana Jiménez,Té verde,4,15000.0,EFECTIVO,Barranquilla,,
+PED-0155,5122020,11.26,Alejadnro Vargas,Espresso,5,12300.0,,,★★★★,muy rico!
+PED-0156,12-11-23,2311,Alejandor Muñoz,Mocha,4,5800.0,Nequi,BOGOTA,★★★★,doble shot
+PED-0157,13 may 2022,22.28,Jroge Torres,,5,,Nequi,,3,doble shot
+PED-0158,13-5-20,8:40 PM,aCrlos Jiménez,Cold brew,,14900.0,transferencia,Cali,1,
+PED-0159,1842019,7:16 PM,Jorge Jiménez,Frappé,2,10700.0,,Barranquilla,4,muy rico!
+PED-0160,,1333,Feilpe Castro,Machiato,2,11900.0,Nequi,Bogotá,4,para llevar
+,932024,,Naatlia Vargas,Machiato,4,12900.0,,,cinco,sin azúcar
+PED-0162,13/8/2020,9:33am,Valenitna Pérez,Chocolate calienet,1,7000.0,,,bueno,extra caliente
+,2102024,,Lusi Gutiérrez,Cappuccino,2,7700.0,,Cali,★★★★,sin lactosa
+,2024.6.13,7:31am,Luara Ramos,Latte,2,8800.0,transferencia,,3,
+PED-0165,1-10-21,8:42:00,Luara Gutiérrez,Frappé,,6600.0,Tarjeta,,★★★★,muy rico!
+PED-0166,23/10/2021,8:00 AM,Lius Martínez,Espresso,2,7200.0,EFECTIVO,Medellín,,sin lactosa
+PED-0167,2020.11.17,,Camlia Morales,Mocha,,5500.0,tarjeta débito,Cali,,
+PED-0168,8-10-23,11:59pm,Sebastáin García,Machiato,4,16700.0,Nequi,,3,sin lactosa
+PED-0169,522019,10h16,Feilpe López,Americano,2,4800.0,Tarjeta,Cartagena,3,muy rico!
+PED-0170,14/2/2020,18h03,Dvaid Herrera,,1,8600.0,tarjeta débito,,1,
+PED-0171,2022.9.13,9:35 PM,Andrsé Gutiérrez,Latte,2,15100.0,transferencia,BOGOTA,4,sin azúcar
+PED-0172,2022.10.12,1:12pm,uLis Martínez,Machiato,,10100.0,,Bogotá,★★★★,sin azúcar
+PED-0173,2019/23/11,22h02,Mairana Martínez,,1,14500.0,transferencia,BOGOTA,3,caliente porfavor
+PED-0174,642023,6:02 AM,,Cappuccino,3,13300.0,transferencia,Pereira,1,
+PED-0175,2019/22/3,1:26 PM,Valenitna Muñoz,Cappuccino,3,16500.0,DaviPlata,medellin,,
+PED-0176,24 feb 2020,10:46,Natlaia Flores,Frappé,2,16800.0,transferencia,,5,
+PED-0177,2382020,1711,,,1,12800.0,transferencia,,2,
+PED-0178,2023/25/1,6:39pm,nAa Muñoz,Americano,,17000.0,DaviPlata,Barranquilla,4,
+PED-0179,6/7/2021,1029,Alejandro González,Cappuccino,5,14800.0,tarjeta débito,,bueno,doble shot
+PED-0180,,1846,Paual Castro,Cold brew,5,16600.0,Nequi,Cali,★★★★,para llevar
+,2552019,,Sfoía Ramos,Cappuccino,4,14400.0,Efectivo,Pereira,,para llevar
+PED-0182,2022.2.2,3:39pm,Iasbella Muñoz,,,6500.0,transferencia,Barranquilla,cinco,caliente porfavor
+PED-0183,2-2-2023,15:27:00,Daivd Rodríguez,Chocolate caliente,,10900.0,,Cali,3,muy rico!
+PED-0184,14 ene 2021,12:00pm,Lius Flores,,3,,EFECTIVO,,1,
+PED-0185,2892021,,Daivd Castro,Cappuccino,2,15800.0,,Cali,4,para llevar
+PED-0186,23/6/2024,8:31 AM,Valnetina Ortiz,Cappuccino,3,13000.0,DaviPlata,Cartagena,4,extra caliente
+,17-11-20,8:24pm,aVlentina Gutiérrez,Cold brew,5,9100.0,Tarjeta,,3,para llevar
+PED-0188,10-1-2023,17h35,,Mocha,2,7100.0,,Medellín,4,doble shot
+PED-0189,4-27-2024,,Sbeastián Muñoz,Cappuccino,1,5700.0,,,5,
+,8/16/2020,10:32,Maíra Castro,Machiato,3,9800.0,tarjeta débito,,3,
+PED-0191,4-23-2020,21:07:00,Maraí Pérez,Frappé,2,9700.0,tarjeta débito,,5,sin lactosa
+PED-0192,7 abr 2024,15.58,Lusi García,Espresso,5,,,Pereira,5 estrellas,doble shot
+PED-0193,2022/13/7,11:30 AM,Camlia Rodríguez,Cappuccino,5,9300.0,,Medellín,2,caliente porfavor
+PED-0194,1592022,13.11,Soífa Morales,,4,6300.0,Efectivo,,4,caliente porfavor
+PED-0195,8-8-2024,23:51:00,Juan Castro,Cold brew,1,14400.0,EFECTIVO,medellin,3,extra caliente
+PED-0196,26/12/2023,,Fleipe Gutiérrez,,5,14300.0,Tarjeta,,bueno,
+PED-0197,2022/20/3,13.42,Daivd Martínez,,3,8000.0,Nequi,Cartagena,5,
+PED-0198,11-17-2019,17.54,Feilpe Torres,Frappé,2,14000.0,tarjeta débito,,,
+,4 nov 2022,,nAa Gutiérrez,,2,13600.0,Nequi,,1,
+PED-0200,2021.6.22,14:49,Aan Torres,Epsresso,1,7900.0,Nequi,Bogotá,4,doble shot
+PED-0201,1/8/2020,6:17 PM,aDvid Ortiz,Chocolate caliente,2,5900.0,tarjeta débito,Bogotá,,caliente porfavor
+PED-0202,,2048,sIabella Díaz,Cappuccino,4,15500.0,Tarjeta,BOGOTA,3,doble shot
+PED-0203,27/8/2019,,Alejandor Castro,Cold brew,2,7100.0,Efectivo,Cartagena,4,muy rico!
+PED-0204,2-19-2019,1304,Digeo González,Cold brew,,14000.0,DaviPlata,,cinco,extra caliente
+,2023/28/11,,Luis Ramos,Latte,1,14700.0,Nequi,medellin,2,
+PED-0206,12-7-19,22:06:00,Isablela Ramírez,Chocolate caliente,2,,Efectivo,Cali,bueno,extra caliente
+PED-0207,8-25-2019,11:11 PM,aMría Ramírez,Cold brew,4,,DaviPlata,BOGOTA,3,doble shot
+PED-0208,542023,17.08,Fleipe Herrera,,3,7700.0,,Cartagena,,caliente porfavor
+PED-0209,372023,12.37,Natalai Ramírez,Espresso,3,8500.0,Nequi,Medellín,5,caliente porfavor
+PED-0210,2024/18/1,10h22,Carols Flores,Cappuccino,1,14400.0,Efectivo,Cartagena,4,extra caliente
+PED-0211,25-5-24,8h39,,Chocolate caliente,2,9500.0,Nequi,Bogotá,1,
+PED-0212,2021/11/6,8h23,Maraí Castro,Americano,2,,EFECTIVO,Bogotá,5,
+PED-0213,28/4/2023,11:59 PM,,Cold brew,,16600.0,EFECTIVO,BOGOTA,1,extra caliente
+PED-0214,16/6/2021,3:29 PM,Isbaella Pérez,Té verde,4,13900.0,Nequi,,3,doble shot
+PED-0215,9-6-2021,18.59,uJan García,Té verde,5,8000.0,transferencia,medellin,1,
+PED-0216,10-1-22,8:20,Aleajndro Torres,Machiato,2,14300.0,Tarjeta,Barranquilla,1,sin azúcar
+PED-0217,6/10/2021,11:05 PM,Natlaia Flores,Té verde,5,17200.0,tarjeta débito,,2,sin lactosa
+PED-0218,972020,10:12 AM,aLura Flores,Espresso,2,17800.0,,Medellín,5,
+PED-0219,20122021,2:40pm,Maíra Ortiz,Mohca,4,13500.0,Efectivo,Cartagena,,doble shot
+PED-0220,2024.4.17,11h34,,Espresso,3,8200.0,Efectivo,medellin,,doble shot
+PED-0221,9-17-2024,807,Camila Flores,Cold brew,4,,EFECTIVO,,5 estrellas,muy rico!
+PED-0222,422019,,,,2,13900.0,Efectivo,Bogotá,2,extra caliente
+PED-0223,25-12-23,806,Andrés Sánchez,,5,7000.0,Tarjeta,Pereira,★★★★,
+PED-0224,,1031,nAa Herrera,Cold brew,3,7000.0,transferencia,Cartagena,★★★★,sin lactosa
+PED-0225,2019/16/11,8:07 AM,Mraía López,Chocolate caliente,3,10300.0,tarjeta débito,Barranquilla,4,
+PED-0226,,14.31,aCrlos Martínez,,5,14700.0,Nequi,BOGOTA,3,caliente porfavor
+PED-0227,11/9/2023,7:27,,Machiato,,5500.0,transferencia,Cali,4,
+PED-0228,2019/6/9,6:39pm,uJan García,Espresso,3,,Efectivo,BOGOTA,5,caliente porfavor
+PED-0229,28 may 2019,23:20,,,3,,EFECTIVO,Barranquilla,5 estrellas,
+PED-0230,16-11-19,7:19:00,,,,13600.0,,BOGOTA,3,doble shot
+PED-0231,2024.1.6,1242,Isabelal Gutiérrez,Mocha,5,10300.0,Efectivo,BOGOTA,bueno,muy rico!
+PED-0232,6-5-24,,Valentian Vargas,Americano,2,14800.0,Efectivo,medellin,1,sin lactosa
+,2019/20/5,825,aMría Ortiz,Mocha,3,6900.0,transferencia,Bogotá,4,sin azúcar
+PED-0234,8/9/2022,7:31:00,Juna Morales,Latte,3,12400.0,Nequi,BOGOTA,2,
+PED-0235,12-11-19,18.00,Vlaentina Ramírez,Cappuccino,,14500.0,,Barranquilla,5 estrellas,sin lactosa
+PED-0236,2021/17/2,23h47,Ana Pérez,Mocha,1,17200.0,transferencia,,3,extra caliente
+PED-0237,5 may 2020,12.05,Deigo García,Americano,5,14900.0,DaviPlata,Cartagena,,
+PED-0238,,1212,Lauar Rodríguez,Espresso,1,10300.0,transferencia,,★★★★,
+PED-0239,2024/28/6,18.45,aMría Martínez,Chocolate caliente,,17700.0,,Pereira,2,
+PED-0240,15 mar 2019,,Jorge Vargas,Mocha,4,6300.0,transferencia,medellin,5 estrellas,muy rico!
+PED-0241,832019,20:27,Aan Jiménez,Mocha,5,16600.0,Tarjeta,Cali,2,
+PED-0242,2023.9.1,815,Juan García,Latte,2,6900.0,Tarjeta,,3,caliente porfavor
+PED-0243,24-10-20,,,Cold brew,4,17400.0,,,cinco,
+PED-0244,12 nov 2019,21.28,aNtalia Morales,Chocolate caliente,3,17400.0,,Pereira,bueno,doble shot
+PED-0245,2020.5.16,3:53 PM,nAa Martínez,Cold brew,2,14100.0,,,,
+,14 dic 2021,8:48pm,uJan Sánchez,Té verde,3,,Tarjeta,,4,para llevar
+PED-0247,2024/12/12,,Cralos García,Latte,1,10900.0,tarjeta débito,Pereira,5,doble shot
+PED-0248,,6:06am,Natlaia Ramos,Mocha,4,,,Pereira,4,
+,20112021,6h10,Sebsatián Ortiz,Machiato,4,,,medellin,,sin lactosa
+,16-3-20,2106,Valnetina Sánchez,Chocolate caliente,4,13600.0,transferencia,Cali,2,doble shot
+PED-0251,1/25/2023,,Sebastián Muñoz,Frappé,1,,Tarjeta,Medellín,,doble shot
+,2021.6.21,12.28,Laura Herrera,Espresso,1,16800.0,tarjeta débito,,bueno,
+PED-0253,1/8/2020,22:04,Paual Martínez,Farppé,4,6400.0,Efectivo,Pereira,4,muy rico!
+PED-0254,2024/20/3,12:56:00,Sebasitán Díaz,,4,14000.0,EFECTIVO,Cali,3,sin azúcar
+PED-0255,2024/25/5,9:46,,Frappé,3,11400.0,transferencia,Medellín,,muy rico!
+PED-0256,2024.10.23,,,Americano,5,16600.0,,Barranquilla,5,doble shot
+PED-0257,2022/15/12,10:32 AM,Aeljandro Sánchez,Codl brew,2,9500.0,EFECTIVO,Bogotá,5,doble shot
+PED-0258,,15h56,aLura González,Cohcolate caliente,1,,transferencia,BOGOTA,★★★★,
+PED-0259,20-7-22,16:34,eFlipe Pérez,Cold brew,5,6400.0,transferencia,Bogotá,4,
+,22/9/2020,1215,Sbeastián Castro,,2,11800.0,Efectivo,Cali,5,
+PED-0261,14/11/2020,16:11,Maíra Rodríguez,Frappé,3,5700.0,,,3,doble shot
+PED-0262,14/11/2020,915,,Machiato,2,14700.0,Nequi,Cali,cinco,muy rico!
+PED-0263,5/16/2023,1822,Alejnadro Martínez,,4,,Tarjeta,Bogotá,5,
+PED-0264,1162020,4:01pm,Maraina García,Frappé,3,7300.0,,,3,
+PED-0265,12-6-2019,12:28,Felipe Jiménez,Latte,,15700.0,DaviPlata,Cartagena,3,sin lactosa
+PED-0266,,10:47,Soífa Sánchez,Cappuccion,3,14000.0,,Barranquilla,,doble shot
+PED-0267,2021/8/1,16.00,David García,Cappuccino,3,17900.0,DaviPlata,BOGOTA,4,muy rico!
+PED-0268,11-1-21,20:48,uLis Martínez,Latte,1,15400.0,,,3,
+PED-0269,20/11/2023,20.50,Juna García,Machiato,,13600.0,,Bogotá,bueno,caliente porfavor
+,2023/5/5,17:19:00,Joreg Flores,Americano,5,11400.0,,Pereira,5,
+PED-0271,20 dic 2021,,Aan Ramírez,Frappé,1,7100.0,,,1,
+PED-0272,,6:12 AM,Fleipe Herrera,Té verde,4,7000.0,Nequi,,1,
+PED-0273,,10:50 AM,Caimla Gutiérrez,Espresso,4,16400.0,DaviPlata,medellin,bueno,
+PED-0274,11-26-2023,6:48pm,Alejandor Pérez,Té verde,,15200.0,,,5,
+PED-0275,5-12-2023,8.18,Aan Ortiz,Machiato,1,16600.0,tarjeta débito,Cartagena,5 estrellas,sin lactosa
+PED-0276,,17:02:00,Jaun Flores,Chocolate caliente,1,7700.0,DaviPlata,Cali,1,muy rico!
+,2020/21/9,12:30 PM,Sebastiná Herrera,Frappé,,8500.0,tarjeta débito,Cartagena,4,caliente porfavor
+PED-0278,7/22/2024,,Juna Gutiérrez,Cappuccino,3,16300.0,tarjeta débito,,4,
+PED-0279,,12.04,,Chocolate caliente,2,8900.0,tarjeta débito,Bogotá,,extra caliente
+PED-0280,10102020,,Soífa Ramos,Chocolate caliente,4,9800.0,Tarjeta,Cartagena,5 estrellas,
+PED-0281,2019/23/10,715,Isbaella López,Mocha,4,15400.0,,Pereira,,
+,21122024,6:54 PM,María Rodríguez,,1,11300.0,DaviPlata,Cartagena,2,
+PED-0283,2252020,12:45,eSbastián Ortiz,Mocha,2,,tarjeta débito,,,
+PED-0284,4-11-2024,951,aPula Morales,Cappuccino,1,14900.0,DaviPlata,Pereira,2,sin azúcar
+,,12h26,Mraía Torres,Chocolate caliente,1,5900.0,tarjeta débito,Cali,,
+PED-0286,4-1-2019,7:48 PM,Camila Vargas,,,4700.0,,BOGOTA,5,
+PED-0287,2-11-20,18h33,Lius López,T éverde,1,17700.0,,,cinco,
+PED-0288,19-8-24,21h05,Sebastáin Ortiz,Americano,2,10300.0,,Barranquilla,5 estrellas,para llevar
+PED-0289,362020,12:00,Camlia Díaz,Latte,3,6600.0,EFECTIVO,medellin,bueno,doble shot
+PED-0290,25122021,17:44,,Machiato,1,5000.0,Efectivo,Cali,5,sin lactosa
+PED-0291,12-13-2023,12.56,Valentnia Ramos,Cold brew,2,12600.0,,,,extra caliente
+,2023/23/7,7:10 PM,Andérs Pérez,Té verde,2,7300.0,DaviPlata,Medellín,1,
+,,13.30,Aan García,,3,16300.0,DaviPlata,Medellín,1,
+PED-0294,2022/12/11,17h55,,Frappé,3,10900.0,DaviPlata,,3,
+PED-0295,2462024,9:25pm,Natalia Vargas,Cold brew,5,7000.0,transferencia,Cali,,
+PED-0296,4-8-24,11:48am,Cralos Herrera,Machiato,,,transferencia,Bogotá,5,
+PED-0297,2022/24/12,13:16,Juna Ramos,,,13800.0,EFECTIVO,BOGOTA,,
+PED-0298,,634,Valnetina Vargas,Machiato,1,12500.0,Efectivo,medellin,4,
+PED-0299,5-12-20,759,Digeo Pérez,Latte,3,14000.0,,Barranquilla,4,
+,2022.5.23,20.44,Adnrés García,,3,17000.0,Nequi,Barranquilla,1,caliente porfavor
+PED-0301,,18h31,iDego Muñoz,Espresso,,17700.0,,,,caliente porfavor
+PED-0302,2024/16/11,,Iasbella Díaz,,4,16800.0,Tarjeta,,5,extra caliente
+PED-0303,,9h32,Natalai García,Latte,2,,,Cartagena,3,para llevar
+PED-0304,7-3-23,2:08pm,Felipe Torres,,3,11400.0,transferencia,Cali,1,
+PED-0305,26/7/2022,13h04,Isaeblla López,Latte,3,13900.0,transferencia,,5,sin lactosa
+PED-0306,9/4/2021,9:57,Deigo Jiménez,Latte,4,7500.0,tarjeta débito,Cali,1,doble shot
+PED-0307,15 mar 2022,22h18,Soífa López,Frappé,2,6400.0,Tarjeta,Bogotá,★★★★,
+PED-0308,8-5-2022,1258,Isabella Jiménez,Latte,2,5600.0,Efectivo,Cali,1,sin lactosa
+PED-0309,11-11-2020,21h18,Davdi Sánchez,Frappé,2,9500.0,Efectivo,,1,sin lactosa
+,8-14-2020,10:26,Felipe Ramírez,Cappuccino,,10700.0,,Cartagena,★★★★,para llevar
+PED-0311,2019.6.24,,Luara Herrera,Cold brew,2,,tarjeta débito,Bogotá,,
+PED-0312,5-10-2022,1:39 PM,eFlipe Torres,Espresso,2,4700.0,DaviPlata,Bogotá,★★★★,caliente porfavor
+PED-0313,,7.24,Sfoía Herrera,Frappé,5,17900.0,,BOGOTA,2,
+PED-0314,1432021,15:07,Jogre Jiménez,Té verde,4,16600.0,EFECTIVO,medellin,★★★★,
+PED-0315,4 feb 2023,9:48 PM,Jroge Morales,Chocolate caliente,1,6300.0,EFECTIVO,Cartagena,,
+PED-0316,2-10-19,6:31pm,uLis Muñoz,Latte,,10200.0,tarjeta débito,,1,doble shot
+PED-0317,12-10-2021,7:34 AM,Fleipe Torres,Epsresso,5,13900.0,DaviPlata,Medellín,4,muy rico!
+PED-0318,21-1-21,14h11,aDvid Díaz,Machiato,3,17300.0,DaviPlata,,5 estrellas,caliente porfavor
+PED-0319,632020,,Paual Gutiérrez,Americano,5,16100.0,,,4,
+PED-0320,3-2-2020,6:50,Juna López,Frappé,2,15400.0,,medellin,,sin azúcar
+PED-0321,,7:24 PM,iDego Vargas,,,13800.0,transferencia,,,
+PED-0322,10 oct 2021,14.58,uLis Rodríguez,Té verde,1,12700.0,,Cartagena,5,sin lactosa
+PED-0323,16 dic 2022,13.24,,Latte,5,14300.0,DaviPlata,,2,sin lactosa
+PED-0324,28-9-22,1:03pm,Joreg García,,1,10900.0,Tarjeta,Bogotá,★★★★,para llevar
+PED-0325,3/24/2024,1628,,Machiato,,,,Barranquilla,,sin lactosa
+,13-3-24,7.14,Isablela López,Cold brew,5,8000.0,tarjeta débito,,2,para llevar
+,10/7/2019,12:40,,,4,,Tarjeta,Medellín,,doble shot
+PED-0328,,18:30:00,,Mocha,4,8700.0,DaviPlata,Cali,2,extra caliente
+PED-0329,2019/28/7,8:09:00,Cralos Flores,Espresso,5,14300.0,Tarjeta,Cartagena,3,para llevar
+PED-0330,11-15-2020,21h02,Mariaan Rodríguez,Mocha,,12300.0,EFECTIVO,Barranquilla,bueno,
+PED-0331,2020/13/2,8.22,Sbeastián López,Mocha,1,13200.0,tarjeta débito,,,extra caliente
+PED-0332,5 nov 2020,1803,Luara Martínez,Latet,3,12700.0,,Bogotá,1,sin azúcar
+PED-0333,11-5-20,19.30,Naatlia Ramos,,3,10600.0,Nequi,,★★★★,
+PED-0334,2832024,9:02 AM,Isabelal Pérez,Cold brew,2,8800.0,DaviPlata,,3,sin azúcar
+PED-0335,,11.29,Paual Díaz,Té verde,,16600.0,transferencia,Bogotá,4,
+PED-0336,1/26/2024,1214,Andérs González,Latte,1,12800.0,,BOGOTA,5,extra caliente
+PED-0337,1 ene 2020,10:52pm,Davdi Ramírez,Frappé,3,13400.0,tarjeta débito,,4,sin azúcar
+PED-0338,2023.5.21,,,,2,8800.0,,Cali,5 estrellas,caliente porfavor
+PED-0339,9/2/2020,09.07,Jogre Torres,Té verde,2,16600.0,EFECTIVO,,2,sin lactosa
+PED-0340,6/3/2021,7h07,,Cold brew,1,11100.0,Tarjeta,Medellín,bueno,
+PED-0341,552021,8:22am,Lauar Ortiz,Frappé,5,7400.0,DaviPlata,medellin,1,
+PED-0342,6-27-2023,19:12:00,Lius Pérez,Latte,5,12400.0,tarjeta débito,Pereira,bueno,
+PED-0343,4/1/2021,12:29:00,sIabella Díaz,Cappuccino,1,8900.0,transferencia,Bogotá,1,
+PED-0344,2021/6/10,6:18,Carols Flores,,4,8800.0,Efectivo,,,doble shot
+PED-0345,8-23-2022,,María Herrera,,4,8200.0,EFECTIVO,Pereira,5,
+PED-0346,,4:55 PM,Natalai Muñoz,Cappuccino,3,,,medellin,3,caliente porfavor
+,16/1/2020,20.52,Andrsé Ortiz,Cold brew,,14800.0,,,2,
+PED-0348,5-22-2023,9:47,Palua García,Espresso,2,9700.0,Tarjeta,Bogotá,2,
+PED-0349,2022.4.10,22.38,nAa González,mAericano,2,10300.0,,Bogotá,,sin lactosa
+PED-0350,12/10/2023,9:11:00,Valnetina Pérez,Mcahiato,4,5900.0,,Medellín,3,para llevar
+PED-0351,8/8/2019,3:53 PM,oJrge González,Chocolate caliente,,17700.0,EFECTIVO,medellin,cinco,
+PED-0352,17/12/2024,7:54 PM,aLura Ramírez,Mocha,3,15700.0,DaviPlata,,5,caliente porfavor
+PED-0353,2022/12/6,,Juna González,Chocolate caliente,1,16300.0,EFECTIVO,Medellín,4,muy rico!
+PED-0354,1/15/2020,09.03,aCrlos Torres,Espresso,4,11600.0,Nequi,medellin,2,
+PED-0355,5/4/2021,19h43,Anrdés Rodríguez,Americano,4,5600.0,transferencia,Cartagena,3,sin lactosa
+PED-0356,15/1/2023,1905,Soífa Rodríguez,Chocolate caliente,,11600.0,Efectivo,Barranquilla,3,sin lactosa
+,10 oct 2022,9:47:00,nAa Ortiz,Cappuccino,4,16300.0,DaviPlata,Cali,cinco,extra caliente
+PED-0358,482019,9.19,Soífa Gutiérrez,Mocha,1,12900.0,tarjeta débito,Medellín,5 estrellas,extra caliente
+PED-0359,7-13-2024,19:09,iDego Ramos,Americano,2,13900.0,,BOGOTA,3,caliente porfavor
+,21 mar 2021,1017,iDego Vargas,Cold brew,4,17800.0,transferencia,BOGOTA,5,muy rico!
+PED-0361,,11.46,uLis Gutiérrez,,3,,EFECTIVO,Medellín,5 estrellas,extra caliente
+PED-0362,2020/7/12,,Mraía Martínez,Té verde,1,9600.0,tarjeta débito,Bogotá,2,
+PED-0363,2024/15/7,808,Luara Martínez,Frappé,4,7300.0,transferencia,medellin,3,muy rico!
+PED-0364,9-2-2024,,Anrdés Martínez,Té verde,1,6600.0,Efectivo,Bogotá,2,caliente porfavor
+PED-0365,,9:32 PM,Valnetina García,Machiaot,5,,tarjeta débito,Medellín,4,caliente porfavor
+PED-0366,12 jun 2020,,Natalia Castro,Capupccino,4,13900.0,,Cartagena,,extra caliente
+,18 abr 2022,1:28pm,Isbaella Ramírez,Cappuccino,3,13300.0,,Barranquilla,,extra caliente
+PED-0368,27-3-19,20:07,Felipe Ramos,Machiato,4,7200.0,tarjeta débito,Barranquilla,2,muy rico!
+PED-0369,25-6-21,1646,nAa Castro,Cappuccino,2,7000.0,,,,
+PED-0370,,14h23,aMriana González,Mocha,2,10800.0,Nequi,Medellín,cinco,
+PED-0371,2022.2.11,1416,Puala Gutiérrez,Cold brew,1,11000.0,Nequi,Cartagena,cinco,extra caliente
+,6-8-2019,9:32,Camlia López,Cappuccino,5,5300.0,EFECTIVO,BOGOTA,,
+,20 abr 2021,,iDego López,Chocolate caliente,3,17600.0,tarjeta débito,Bogotá,cinco,para llevar
+PED-0374,2662020,9:44 AM,Naatlia López,Frappé,1,13400.0,,Cartagena,2,doble shot
+PED-0375,6-11-2019,22:09:00,,Americano,5,17800.0,,Cali,bueno,para llevar
+PED-0376,12-8-2021,16:37:00,nAa Jiménez,Chocolate caliente,1,17900.0,tarjeta débito,Cartagena,4,
+PED-0377,12/17/2023,9h14,Alejandro Ortiz,Espresso,5,,EFECTIVO,,5,
+PED-0378,5-6-2021,14:09,aPula Gutiérrez,Americano,4,12300.0,,Medellín,★★★★,doble shot
+PED-0379,2/9/2020,,Lius Pérez,Mocha,5,10500.0,Tarjeta,BOGOTA,1,extra caliente
+PED-0380,2023/8/3,1:43 PM,Paual Flores,,,14000.0,,Bogotá,,sin azúcar
+PED-0381,5/6/2020,9:50pm,Larua González,Machiato,2,5000.0,transferencia,Cartagena,5,
+PED-0382,,2:32 PM,Aan Torres,Chocolate caliente,1,17400.0,tarjeta débito,Medellín,4,
+PED-0383,11/3/2023,,Camial López,Americano,3,5100.0,DaviPlata,Pereira,5 estrellas,extra caliente
+PED-0384,2023/17/2,7h10,oSfía Torres,Americano,3,16800.0,tarjeta débito,medellin,5 estrellas,sin azúcar
+PED-0385,4/13/2023,,nAdrés Torres,Latte,1,14000.0,,Barranquilla,,
+PED-0386,15/4/2023,13h28,Valenitna Rodríguez,,3,11700.0,Nequi,Cartagena,bueno,
+PED-0387,11 mar 2019,19:55,Isabelal Vargas,Latte,2,15800.0,EFECTIVO,Cartagena,,
+PED-0388,412022,10:31 PM,,Latte,1,5500.0,transferencia,,,para llevar
+PED-0389,2024.12.11,21h00,uLis Flores,,2,11600.0,,Medellín,3,doble shot
+PED-0390,10/14/2024,18h59,nAdrés Ramos,Machiato,,13100.0,transferencia,Cali,1,doble shot
+,2019.4.8,21:55,nAa Ortiz,Machiato,4,14900.0,transferencia,Bogotá,,
+PED-0392,2024.5.21,23.28,Maraí Jiménez,Chocolate caliente,4,14000.0,EFECTIVO,,3,caliente porfavor
+PED-0393,12/5/2023,7h41,Feilpe Martínez,Americano,4,17100.0,,Cartagena,★★★★,sin azúcar
+PED-0394,1422019,7:20,Andrsé García,Cold brew,5,,Nequi,,2,para llevar
+PED-0395,8/6/2019,10:26 PM,Calros Torres,Té verde,,13500.0,Tarjeta,,,muy rico!
+PED-0396,24-4-21,10:19,Fleipe Ramos,Latte,2,7000.0,DaviPlata,medellin,2,
+PED-0397,13-3-23,7:22pm,Anrdés Ortiz,Cold brew,,9300.0,DaviPlata,Cartagena,5,
+PED-0398,4/11/2021,21h21,Caimla Pérez,,5,7000.0,,Barranquilla,3,caliente porfavor
+PED-0399,2022/17/2,18:37,Valnetina Ramos,Cold brew,2,9500.0,Efectivo,medellin,,
+PED-0400,14-2-24,2354,aCmila Vargas,Espresso,3,,,Cartagena,5 estrellas,extra caliente
+PED-0401,12/8/2024,11:49 AM,Carlso Gutiérrez,Latte,4,14800.0,Nequi,Medellín,3,sin lactosa
+PED-0402,2020/14/3,,Maraí García,Chocolate caliente,1,13300.0,,Barranquilla,bueno,
+PED-0403,2020/12/2,,David Torres,Cappuccino,3,,Efectivo,Medellín,4,
+PED-0404,1272019,7:38,Diego Ramírez,Cold brew,4,16500.0,,medellin,★★★★,sin azúcar
+PED-0405,10-5-2024,8:21am,Cralos Torres,,5,15600.0,tarjeta débito,,5,
+PED-0406,12/24/2020,7.38,eFlipe Morales,Mocha,5,16000.0,transferencia,,3,
+PED-0407,2021/21/10,23h00,Seabstián Muñoz,Té verde,1,4700.0,Nequi,medellin,★★★★,caliente porfavor
+PED-0408,2020.1.15,,Isabella Vargas,Machiato,1,12100.0,tarjeta débito,,,doble shot
+PED-0409,20 may 2021,16:32:00,Dieog Muñoz,Americano,2,12200.0,Nequi,Medellín,bueno,
+,3-8-2023,19h01,,Té verde,4,,tarjeta débito,,4,sin lactosa
+,19-8-22,2015,Maíra Pérez,,4,16300.0,Efectivo,Barranquilla,2,
+PED-0412,1/8/2022,1853,Diego Ortiz,,,10100.0,transferencia,,1,caliente porfavor
+PED-0413,15-12-22,4:18pm,Feliep Torres,Latte,2,13400.0,,BOGOTA,bueno,extra caliente
+PED-0414,2021/5/10,1301,aDvid Torres,Mocha,3,6600.0,tarjeta débito,Cali,4,para llevar
+PED-0415,1-13-2024,3:13 PM,Mraía Jiménez,Espresso,5,8700.0,Efectivo,Pereira,4,muy rico!
+PED-0416,3-1-22,11:44am,Seabstián Martínez,Americano,3,,DaviPlata,Bogotá,1,muy rico!
+,26-11-19,20.05,Andrsé Vargas,Espersso,5,7300.0,Tarjeta,Cartagena,4,muy rico!
+PED-0418,9/16/2021,23h15,Valentian González,Americano,5,12800.0,EFECTIVO,Pereira,bueno,
+PED-0419,4/4/2020,16:49:00,Mraiana Ramos,Espresso,,10300.0,tarjeta débito,Cali,4,muy rico!
+PED-0420,6/10/2020,5:53pm,,,3,17700.0,tarjeta débito,Cali,3,doble shot
+PED-0421,18-12-20,,Juna Vargas,Mocha,1,7200.0,Efectivo,Barranquilla,,sin lactosa
+PED-0422,3-16-2024,7:52 PM,,Cold brew,2,12700.0,transferencia,medellin,★★★★,
+PED-0423,1182020,12:43pm,Cralos González,Espresso,1,13900.0,Efectivo,Medellín,3,
+PED-0424,12-3-2019,9:34 AM,Lusi Muñoz,Frappé,,,tarjeta débito,Cartagena,3,
+,27/7/2019,19h09,Juna Muñoz,Espresso,,13200.0,EFECTIVO,,4,sin lactosa
+,28-6-20,11h27,aCmila Rodríguez,Espresso,2,5900.0,,,1,muy rico!
+PED-0427,3-4-2020,17h47,Lusi Jiménez,Cold brew,4,7300.0,,Barranquilla,1,muy rico!
+PED-0428,,,,Latte,3,,transferencia,Barranquilla,3,extra caliente
+,7 may 2022,,,,2,11500.0,tarjeta débito,Pereira,2,extra caliente
+PED-0430,5/10/2024,21h57,Camial González,Latte,1,7500.0,DaviPlata,Pereira,bueno,sin lactosa
+PED-0431,1062024,22:33:00,Jogre Morales,Espresso,2,14500.0,Efectivo,Barranquilla,,
+PED-0432,2023/7/11,12:29:00,Feliep Herrera,Americano,,13100.0,,Cartagena,bueno,caliente porfavor
+PED-0433,9/4/2024,17.19,Lusi Pérez,Té verde,5,15100.0,DaviPlata,,,
+PED-0434,,11:40am,Joreg Sánchez,Americano,3,15000.0,transferencia,Pereira,1,
+PED-0435,2022.1.3,1148,Deigo Morales,Cold brew,4,14200.0,Tarjeta,medellin,,
+,1092019,2019,Seabstián López,Chocolate caliente,1,12400.0,transferencia,Medellín,5 estrellas,
+,24 oct 2023,9:53pm,Maíra Torres,Mocha,1,10200.0,transferencia,,4,
+PED-0438,7-22-2019,,Camial Gutiérrez,Cold brew,2,7500.0,EFECTIVO,Cartagena,bueno,caliente porfavor
+PED-0439,6/21/2019,6.46,Caimla Ramírez,Machiato,,9900.0,transferencia,Cali,4,sin azúcar
+PED-0440,,8.40,Paual Sánchez,Frappé,3,14700.0,,Cali,bueno,
+PED-0441,,18h54,Camlia Rodríguez,Té verde,,12400.0,transferencia,Bogotá,5,muy rico!
+PED-0442,21/4/2020,6:54:00,Isablela Ramos,Americano,4,7800.0,tarjeta débito,Barranquilla,1,
+PED-0443,,22.45,Mraiana Jiménez,Té verde,3,9400.0,DaviPlata,,,para llevar
+PED-0444,12-16-2020,8h46,Carlso Vargas,Cold brew,5,,tarjeta débito,Cartagena,1,muy rico!
+,20 ene 2024,8:39,Adnrés Gutiérrez,Mocha,3,15300.0,Efectivo,Cartagena,5,caliente porfavor
+PED-0446,2021.5.4,14:31,Soífa López,Té verde,,9900.0,Efectivo,Medellín,4,
+PED-0447,12-2-20,21:11:00,Jogre Ramos,Cappuccino,,4500.0,Nequi,,★★★★,sin azúcar
+PED-0448,2020.8.4,4:29pm,,Cappuccino,5,15200.0,,,,para llevar
+PED-0449,2023/17/10,12h18,Valentnia Díaz,,4,16800.0,Tarjeta,Cartagena,1,extra caliente
+PED-0450,2023.12.19,,,Mocha,4,14900.0,Nequi,Medellín,5,
+,4-13-2024,6:57 AM,uJan Díaz,Latte,4,16500.0,Efectivo,,5 estrellas,caliente porfavor
+PED-0452,4/9/2022,6:02pm,,Mocha,4,14100.0,Nequi,Cali,3,sin azúcar
+PED-0453,16/4/2020,,Lusi López,Mocha,4,8400.0,Nequi,Medellín,cinco,
+PED-0454,2019/7/11,15:32,,Frappé,2,,transferencia,Cali,5 estrellas,doble shot
+PED-0455,4/11/2020,7.52,oSfía Ramos,Té vered,,5400.0,tarjeta débito,,5 estrellas,
+PED-0456,3/24/2022,17:47,Aan Morales,Americano,4,9200.0,tarjeta débito,BOGOTA,2,
+PED-0457,17-4-20,12:55pm,Sebastáin Jiménez,Chocolate caliente,4,10700.0,Tarjeta,Cartagena,4,
+PED-0458,2022.4.23,10.41,Joreg Herrera,Machiato,,7400.0,,,bueno,sin lactosa
+PED-0459,7-12-20,8:23:00,Sebastiná Herrera,,1,,Nequi,Cali,1,extra caliente
+PED-0460,5/8/2019,18.30,Daivd Muñoz,Latte,5,10000.0,,,3,
+PED-0461,22 abr 2024,8:22:00,Marinaa Morales,Té verde,1,5400.0,transferencia,Medellín,4,extra caliente
+PED-0462,2/3/2023,6.19,iDego Torres,Espresso,1,14000.0,tarjeta débito,BOGOTA,,
+PED-0463,,5:04 PM,uLis García,Té verde,3,11100.0,Tarjeta,Cartagena,1,
+PED-0464,4-8-2019,22.12,Luara Vargas,Té verde,1,5300.0,Efectivo,,1,
+PED-0465,2020/25/4,15.38,Naatlia Jiménez,Espresso,2,16400.0,transferencia,,cinco,extra caliente
+PED-0466,3 jun 2023,8h36,Camlia Jiménez,Latte,4,14400.0,DaviPlata,,1,
+PED-0467,25/7/2022,1624,Carols Pérez,Té verde,4,10700.0,Efectivo,Cali,4,
+PED-0468,14/3/2022,9h04,Jroge Ortiz,Americano,1,6600.0,Efectivo,Cali,3,
+PED-0469,3 ene 2022,12:20pm,Juna Vargas,Mocha,5,6100.0,EFECTIVO,Cali,★★★★,para llevar
+PED-0470,,21:29:00,eFlipe Muñoz,Machiato,2,12700.0,Nequi,Medellín,,sin azúcar
+PED-0471,18-4-24,,Alejnadro Ramírez,Americano,1,15600.0,Efectivo,,★★★★,
+PED-0472,6/25/2019,12:45:00,Jogre García,Cappuccino,1,,EFECTIVO,Barranquilla,2,sin lactosa
+PED-0473,2024.12.24,,oSfía Jiménez,Chocolate caliente,3,8900.0,Tarjeta,,★★★★,
+,22/9/2019,,Jroge Ortiz,Chocolate caliente,4,,,medellin,,doble shot
+PED-0475,27-3-22,6:58am,Isbaella Ortiz,Chocolate caliente,,,transferencia,BOGOTA,,extra caliente
+,26-2-24,3:53pm,,Chocolate caliente,1,10600.0,transferencia,Medellín,5,
+PED-0477,8/16/2023,,,,2,7300.0,,,3,sin lactosa
+PED-0478,2021.2.2,12:07pm,,Latte,1,13200.0,transferencia,,,sin lactosa
+,5/3/2024,,Adnrés Muñoz,,,,tarjeta débito,Cartagena,4,sin azúcar
+PED-0480,11 dic 2024,18.23,Joreg Castro,,3,12600.0,transferencia,BOGOTA,2,
+PED-0481,2020.12.27,12:52pm,,Codl brew,4,16100.0,EFECTIVO,BOGOTA,,para llevar
+PED-0482,5/12/2020,22:51,Valnetina Díaz,Té verde,5,11600.0,,Medellín,★★★★,extra caliente
+,2021/20/5,15:27:00,Marinaa Martínez,Americano,2,,,Cartagena,1,
+PED-0484,,9.29,aLura Herrera,Chocolate caliente,5,10200.0,DaviPlata,,4,
+PED-0485,18/11/2024,9:44:00,Vaelntina Martínez,,5,15000.0,Nequi,Bogotá,5,doble shot
+PED-0486,1982020,9:06 AM,Marinaa García,Cold brew,,15000.0,Efectivo,BOGOTA,,para llevar
+PED-0487,8/3/2019,11:42 AM,Camial Torres,Latte,4,8300.0,,Medellín,,
+,26-3-21,12:12pm,Mraía Díaz,Espresso,3,,Tarjeta,Cali,,doble shot
+PED-0489,14/1/2022,6:01 PM,Dieog Gutiérrez,Espresso,1,,,Pereira,bueno,
+PED-0490,5 nov 2019,2:29pm,Valenitna Flores,Espresso,2,8400.0,Nequi,Bogotá,1,
+PED-0491,11-4-23,1512,Feilpe Gutiérrez,Té verde,5,13000.0,Nequi,medellin,★★★★,caliente porfavor
+PED-0492,2021.11.26,9:23 PM,Davdi Castro,,5,7300.0,Tarjeta,Pereira,1,doble shot
+PED-0493,912022,21.27,,Cpapuccino,1,17100.0,transferencia,Bogotá,5,doble shot
+PED-0494,10/20/2023,5:53 PM,uJan Pérez,Chocolate caliente,,,Efectivo,Bogotá,,doble shot
+PED-0495,9-2-19,1937,Adnrés González,Machiato,3,6200.0,Nequi,Barranquilla,2,para llevar
+PED-0496,27-8-23,838,Deigo Sánchez,Chocolate caliente,1,8200.0,transferencia,Barranquilla,5,sin azúcar
+,,2:22 PM,Felpie Pérez,Cold brew,1,12100.0,DaviPlata,Barranquilla,cinco,
+PED-0498,2021.7.28,,aMriana Ramos,Americano,1,6600.0,Nequi,Cartagena,,doble shot
+PED-0499,2024.6.18,,Feliep García,Espresso,,17500.0,,Cali,cinco,para llevar
+PED-0500,,2033,Isablela Díaz,Americano,5,12200.0,EFECTIVO,,5 estrellas,

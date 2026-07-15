@@ -1,0 +1,501 @@
+user_id,nombre,edad,ciudad,genero_musical,artista_favorito,canciones_semana,plataforma,horas_dia,dispositivo,genero_persona,nivel_educativo,fecha_registro,hora_registro
+USR00001,,64,medellin,Salsa,Grupo Niche,36,youtube,5.4,COMPUTADOR,F,Universitario,8/19/2019,9.47
+USR00002,Natalia Flores,32,Medellín,Vallenato,Grupo Niche,73,,7.7,Smart TV,F,Tecnólogo,,
+USR00003,Isabella Sánchez,,CALI,Jazz,,109,YouTube,4.9,,m,Posgrado,2 dic 2022,7h50
+,Valentina Martínez,,Bogotá,Hip-Hop,,47,Deezer,7.3,,m,Primaria,2021.4.6,8:31am
+USR00005,María González,20,,Reggaeton,Maluma,72,Amazon Music,3h,,,Universitario,2022/24/12,10:21pm
+USR00006,Diego Torres,63,Manizales,Salsa,aBd Bunny,100 aprox,Apple Music,1.8,Celular,F,Secundaria,1-1-2019,17:08
+USR00007,María Castro,25 años,CALI,,Bad uBnny,173,youtube,todo el dia,,,Posgrado,3/5/2024,
+USR00008,David García,Veintiocho,,Pop,Mozart,,SPOTIFY,6.5,Celular,Masculino,Universitario,2062022,17.23
+USR00009,,N/A,Medellín,Rock,Metallica,74,YouTube,todo el dia,Celular,F,,5 may 2019,10:30 PM
+USR00010,,40,Bogotá,Clásica,Metallica,156,Deezer,4.5,Audífonos BT,No binario,,9-2-21,7:18 AM
+USR00011,,63,CALI,,Shakira,,SoundCloud,4.2,Alexa,M,,2019/17/9,16h33
+USR00012,Juan Pérez,,Barranquilla,reggaeton,Bad Bnuny,65,Spotify,2.3,Celular,,universitario,,12:27:00
+USR00013,,N/A,Medellín,SALSA,,83,,7.0,,M,Primaria,11-8-22,7h16
+USR00014,Natalia Pérez,,Cali,,Bad Bunny,53,,N/A,Parlante,m,Posgrado,2024/15/1,7:32pm
+USR00015,,40,Bogotá,Electronic,,18,,3.3,Alexa,Masculino,TÉCNICO,8-10-21,11:23am
+,Juan Ramírez,64,,Reggaeton,,39,Tidal,,,,,2-12-2024,8:54pm
+USR00017,Luis Flores,51,Manizales,,,18,Apple Music,,Audífonos BT,Masculino,TÉCNICO,13 may 2020,
+USR00018,,57,CALI,Salsa,,,,6.1,Tablet,M,Secundaria,15/8/2022,6:56 PM
+USR00019,Laura Castro,N/A,,reggaeton,Shakira,,Amazon Music,7.1,COMPUTADOR,femenino,Secundaria,2-16-2022,2218
+USR00020,David Gutiérrez,42,Cali,Metal,,200,Spotify,0.8,Parlante,,TÉCNICO,8/5/2019,13h17
+USR00021,Diego Sánchez,44,medellin,,Bad Bnuny,23,,4.9,,F,TÉCNICO,2023.1.13,
+USR00022,Juan Pérez,48,Medellín,Electronic,Bad Bunny,198,Apple Music,N/A,,M,Tecnólogo,15 may 2024,5:55pm
+USR00023,,45,Manizales,Electronic,Maluma,100 aprox,Deezer,1.2,Parlante,,Tecnólogo,8/4/2019,11:56 AM
+USR00024,,,Barranquilla,regueton,Bad Bunny,,Deezer,,Alexa,,universitario,13/12/2019,20:37:00
+USR00025,,14,Manizales,Pop,Feid,,Deezer,N/A,Parlante,M,TÉCNICO,2021.9.7,17:29:00
+,,14,,Hip-Hop,Bad Bunny,130,Tidal,7.9,,,Posgrado,6-15-2022,18h36
+USR00027,María Sánchez,61,CALI,Jazz,Feid,,Tidal,5.2,Smart TV,M,TÉCNICO,,23h07
+USR00028,,35,CALI,Metal,Feid,56,,3h,COMPUTADOR,m,Primaria,15/6/2021,21:13
+USR00029,Sofía Vargas,19,,Clásica,Shakira,18,Amazon Music,4.9,Alexa,femenino,Posgrado,,20:09
+USR00030,Isabella Castro,,Manizales,,Shakira,77,Spotify,todo el dia,,F,universitario,2019.1.9,1652
+USR00031,Laura García,,Medellín,Vallenato,J Balvin,145,Spotify,,Parlante,Masculino,TÉCNICO,9-13-2021,21:17:00
+USR00032,Valentina Morales,33,CALI,Vallenato,Shakira,28,youtube,6.6,Smart TV,Masculino,Secundaria,,7:51
+USR00033,,25 años,,SALSA,Carlos Vives,101,youtube,,Computador,M,Técnico,7 mar 2023,3:00pm
+USR00034,Alejandro Díaz,27,Manizales,Vallenato,Carlos Vives,22,Tidal,,celular,F,Universitario,2-16-2023,21h12
+USR00035,,71,Bogotá,Clásica,Feid,,Tidal,2.7,,F,Primaria,2024.11.10,10:20am
+USR00036,María Morales,47,medellin,,Shakira,187,SoundCloud,2.1,,M,Primaria,8 jun 2022,21h39
+USR00037,Diego Muñoz,75,Manizales,Metal,,200,SPOTIFY,2.8,Computador,No binario,,11/5/2021,10h07
+,Valentina Ramos,18,Bogotá,Hip-Hop,Shakira,,,5.1,,Masculino,Tecnólogo,3/1/2023,7:57:00
+USR00039,Andrés Herrera,25 años,Medellín,reggaeton,Carlos Vives,N/D,Spotify,1.2,Computador,femenino,,,18h21
+USR00040,,12,Medellín,Reggaeton,,73,Amazon Music,6.7,,m,TÉCNICO,2021/3/2,
+USR00041,Carlos Pérez,44,,,Metallica,32,,1.1,Tablet,,Posgrado,3-13-2023,18:11
+USR00042,,49,Bogotá,Rock,Shakira,120,Amazon Music,0.7,Computador,m,,,20:22
+USR00043,Sebastián Jiménez,53,,Hip-Hop,,179,Tidal,,,No binario,universitario,19 may 2024,13.24
+USR00044,Andrés Gutiérrez,62,Manizales,,,186,,2.4,Tablet,No binario,TÉCNICO,4 jun 2022,
+USR00045,Sebastián Flores,N/A,,Electronic,Feid,73,SPOTIFY,,Parlante,F,Tecnólogo,,10.55
+USR00046,,72,Barranquilla,Clásica,Bad Bunny,171,Tidal,3.4,COMPUTADOR,femenino,,2023/21/3,1533
+USR00047,Laura González,27,,reggaeton,Metallica,35,SPOTIFY,,COMPUTADOR,M,,1972019,1732
+USR00048,Alejandro Torres,68,Medellín,Jazz,Ba dBunny,160,YouTube,5.6,Smart TV,No binario,universitario,14-12-24,9:54:00
+USR00049,Carlos Flores,70,Cali,Clásica,,99,,5.2,Alexa,M,Posgrado,2021.5.23,17:23:00
+USR00050,,52,medellin,Reggaeton,Metallica,166,Tidal,2.9,Smart TV,,Universitario,2022.12.17,9:11:00
+USR00051,David Díaz,42,CALI,Reggaeton,Bda Bunny,193,Deezer,3.7,Audífonos BT,M,Posgrado,12122022,23.47
+USR00052,,43,CALI,Rock,Metallica,90,SPOTIFY,todo el dia,Computador,femenino,TÉCNICO,692023,9:28 AM
+USR00053,Ana García,N/A,Cali,,J Balvin,73,Amazon Music,6.8,Alexa,Masculino,,8-23-2024,1614
+USR00054,María Herrera,45,Cali,Hip-Hop,,34,Spotify,7.2,,m,,2021.2.27,12h16
+,Isabella Ramos,21,,POP,Bad Bunny,20,Spotify,,celular,,TÉCNICO,18/12/2021,9h42
+,Mariana García,36,Bogotá,reggaeton,J Balvin,45,,1.1,Computador,No binario,Técnico,13-6-23,11:30 AM
+USR00057,Mariana Morales,64,Barranquilla,Clásica,,60,Amazon Music,4.9,Computador,No binario,Universitario,11/27/2023,6:29am
+USR00058,Sebastián Ortiz,33,,SALSA,Shakira,,Apple Music,,Parlante,Masculino,,9-3-2024,
+,,44,,SALSA,Metallica,,,0.6,Tablet,m,,6/11/2019,
+,Isabella Ortiz,72,Barranquilla,Pop,Metallica,99,SoundCloud,,Smart TV,,,2-12-22,7:55pm
+USR00061,Mariana Martínez,,Cali,Jazz,Metallica,153,Deezer,5.7,Computador,femenino,Primaria,2022.7.27,20:49:00
+USR00062,,,Medellín,SALSA,Maluma,98,Tidal,4.0,Smart TV,F,universitario,23-7-22,17h56
+USR00063,Laura García,75,,Jazz,J Balvin,116,SoundCloud,5.2,COMPUTADOR,F,Primaria,9 mar 2022,15.18
+USR00064,Diego Ortiz,42,Bogotá,,,81,youtube,2.7,Audífonos BT,m,Primaria,14/3/2021,1543
+USR00065,,61,Barranquilla,,BadB unny,100 aprox,,0.8,,m,,2021/27/9,6:48 AM
+USR00066,,68,Barranquilla,Rock,Mozart,123,SoundCloud,7.9,COMPUTADOR,femenino,TÉCNICO,7-26-2019,7:02:00
+USR00067,,20,Manizales,Metal,,86,YouTube,4.0,celular,m,universitario,2/1/2022,
+USR00068,,44,Bogotá,,,100,SoundCloud,2.3,Alexa,,TÉCNICO,2022/3/9,15h00
+USR00069,,20,Bogotá,Pop,Carlos Vives,88,SoundCloud,,Computador,femenino,,8-8-21,
+USR00070,Diego González,22,Bogotá,reggaeton,Feid,144,,6.5,Parlante,femenino,,882024,
+USR00071,Valentina Jiménez,55,Barranquilla,Salsa,Shakira,65,Amazon Music,2.4,Tablet,F,,10/28/2024,11h32
+USR00072,Felipe López,30,medellin,Clásica,,94,,todo el dia,,m,universitario,2023.1.20,9:13am
+USR00073,,,,Rock,,158,YouTube,5.0,Alexa,m,Primaria,2020/28/9,22:40
+USR00074,Andrés Herrera,65,,Jazz,Maluma,120,Amazon Music,N/A,,,Universitario,2021/7/11,2:01pm
+USR00075,,25 años,Barranquilla,POP,Shakira,28,SoundCloud,6.9,celular,No binario,Secundaria,2021/20/7,22:46
+USR00076,Felipe Castro,53,Manizales,regueton,Carlos Vives,71,,1.0,Alexa,,Universitario,7/14/2021,7:33am
+USR00077,Camila Vargas,24,Medellín,Reggaeton,Maluma,,Deezer,1.8,Alexa,,Universitario,1/14/2024,3:34pm
+USR00078,,52,Cali,Salsa,Bad Bunny,153,,N/A,Alexa,,universitario,15-5-20,6:36am
+,,37,Barranquilla,Salsa,Metallica,129,Amazon Music,1.2,Audífonos BT,,Técnico,11-4-2019,22h54
+USR00080,,55,Barranquilla,Rock,Bad Bunny,100 aprox,Tidal,2.2,Computador,,universitario,12-15-2021,8:52:00
+USR00081,Luis Jiménez,36,Barranquilla,reggaeton,Metallica,58,SPOTIFY,6.0,Parlante,femenino,,4/16/2022,919
+USR00082,Paula Muñoz,37,Medellín,Reggaeton,,32,SPOTIFY,6.7,Alexa,Masculino,Primaria,4 may 2024,
+USR00083,Andrés Rodríguez,16,Cali,Electronic,Shakira,14,SPOTIFY,7.8,Alexa,femenino,TÉCNICO,12-14-2019,18.45
+USR00084,Sebastián Ramos,75,,,Metallica,187,youtube,7.6,Celular,No binario,Tecnólogo,4-23-2023,957
+USR00085,Felipe García,31,CALI,Clásica,Maluma,191,Apple Music,,Smart TV,Masculino,TÉCNICO,10/9/2023,17h36
+USR00086,Carlos García,40,,SALSA,Carlos Vives,178,,N/A,Tablet,femenino,TÉCNICO,2024/27/1,19.20
+USR00087,Juan Ramírez,34,Medellín,Pop,Feid,17,Spotify,2.5,,,Tecnólogo,,7:17 PM
+USR00088,Camila Herrera,34,,reggaeton,Carlos Vives,179,Amazon Music,N/A,Celular,,,2020/4/10,18:17
+,María Ortiz,Veintiocho,,Rock,Carlos Vives,35,Amazon Music,3h,Parlante,,universitario,3-2-2020,
+USR00090,Luis Gutiérrez,30,Medellín,Electronic,Carlos Vives,174,SPOTIFY,5.3,Alexa,No binario,universitario,2692019,6:42
+USR00091,María González,26,Manizales,Pop,Bad Bunny,177,Tidal,3.5,celular,No binario,Primaria,7112020,5:09pm
+USR00092,Andrés Gutiérrez,,medellin,Clásica,J Balvin,23,Apple Music,7.2,Smart TV,M,,15-3-21,1119
+USR00093,,72,CALI,Metal,Bad Bunny,39,Apple Music,,celular,Masculino,TÉCNICO,11-11-2019,7:47pm
+USR00094,Isabella Torres,,Cali,,Bad Bunny,82,youtube,1.6,celular,M,Tecnólogo,4/12/2020,6:39am
+USR00095,Alejandro Ortiz,Veintiocho,Medellín,reggaeton,Grupo Niche,7,SPOTIFY,6.6,Alexa,M,universitario,23 abr 2023,14h56
+USR00096,Valentina Ramos,14,Barranquilla,Vallenato,,100 aprox,Amazon Music,4.9,Tablet,femenino,,1552020,
+USR00097,,68,CALI,Pop,Mozart,,Deezer,,Computador,femenino,Universitario,2019/8/2,1823
+USR00098,,49,,Metal,Bad Bnuny,122,Deezer,5.9,Computador,Masculino,universitario,11-10-20,6:51 PM
+USR00099,Sebastián Torres,66,medellin,Clásica,Grupo Niche,67,Deezer,,celular,Masculino,Posgrado,2021/20/3,13h19
+USR00100,,38,Barranquilla,,,194,,4.5,celular,M,Universitario,11 ene 2020,9:27am
+USR00101,Camila Flores,19,,SALSA,Metallica,176,youtube,,celular,F,Universitario,2022.7.25,9:58:00
+USR00102,Sebastián Ramírez,67,,Rock,Bad Bunny,132,Apple Music,3.6,,,Posgrado,12-23-2022,6:57 AM
+,Jorge Sánchez,55,Cali,Vallenato,Bad Bunny,52,SPOTIFY,0.7,Audífonos BT,Masculino,Secundaria,8/4/2023,6:14am
+,,43,Medellín,,Mozart,100 aprox,SPOTIFY,5.0,,M,Primaria,27 oct 2022,12:35pm
+,Felipe Martínez,,CALI,,Grupo Niche,94,,6.4,Smart TV,,TÉCNICO,11/11/2022,10:45pm
+USR00106,Felipe Martínez,,,Metal,,72,Deezer,6.1,Celular,No binario,Tecnólogo,4 oct 2024,8h49
+USR00107,Sebastián Ortiz,63,CALI,,J Balvin,163,,2.3,,femenino,Posgrado,8 jul 2023,7:50
+,Sofía Torres,34,medellin,Pop,,27,,4.2,Computador,femenino,Posgrado,2022.10.17,22:28
+USR00109,Diego Flores,27,Medellín,,,152,Tidal,2.5,Audífonos BT,femenino,Universitario,2019/21/8,9h55
+USR00110,,,Bogotá,,,132,Tidal,7.9,celular,M,Primaria,24/5/2020,22:46:00
+USR00111,Carlos Torres,24,CALI,Hip-Hop,J Balvin,68,youtube,2.3,Smart TV,Masculino,Posgrado,20/4/2019,12:30
+USR00112,Sebastián Vargas,41,,Hip-Hop,,193,Deezer,3.3,COMPUTADOR,,Universitario,1/18/2021,2053
+USR00113,,25 años,Medellín,Electronic,,185,Tidal,3.9,celular,M,Universitario,2-10-23,19h48
+USR00114,Alejandro Ramos,39,Medellín,Jazz,,,SoundCloud,N/A,,No binario,Universitario,2023.3.26,
+USR00115,Isabella Muñoz,,Medellín,regueton,Grupo Niche,,SPOTIFY,,Computador,femenino,Universitario,,6:26 PM
+USR00116,Paula Torres,N/A,Manizales,Clásica,Metallica,122,SoundCloud,todo el dia,Computador,No binario,,362021,22h54
+USR00117,,38,Manizales,Reggaeton,Mozart,muchas,,3.6,,femenino,Universitario,2022.3.8,1244
+USR00118,,69,,Vallenato,Metallica,,Deezer,0.9,Tablet,Masculino,Posgrado,2-4-2023,11:14pm
+USR00119,Felipe Martínez,17,,Hip-Hop,Feid,59,,6.3,Parlante,,,2032023,20h42
+USR00120,Alejandro Morales,55,,SALSA,J Balvin,56,,1.8,Smart TV,,Universitario,,1508
+USR00121,David González,66,Barranquilla,reggaeton,Feid,,Deezer,,,F,Posgrado,2019.3.12,5:25 PM
+USR00122,Natalia Rodríguez,16,medellin,regueton,Grupo Niche,muchas,Spotify,,Audífonos BT,,,2024.9.17,20h35
+USR00123,,56,CALI,,,89,Tidal,,celular,femenino,TÉCNICO,11-17-2022,21h05
+USR00124,,25 años,Bogotá,POP,Maluma,,Spotify,0.5,celular,M,Universitario,7/10/2019,20h40
+USR00125,Alejandro Sánchez,,Barranquilla,Pop,Bad Bunny,185,Apple Music,N/A,,M,Tecnólogo,2822021,6:09am
+USR00126,,62,medellin,,Mozart,132,SPOTIFY,7.0,Tablet,No binario,Secundaria,16-9-19,9.50
+USR00127,Isabella Ortiz,70,Bogotá,regueton,Bad Bnuny,90,youtube,,,m,,3/28/2024,
+USR00128,María Vargas,75,,,Maluma,132,Apple Music,4.0,Tablet,m,,5/5/2021,21:46
+USR00129,David Herrera,42,Cali,,Ba dBunny,135,SPOTIFY,N/A,Parlante,,,,21:17:00
+USR00130,Isabella Rodríguez,28,,reggaeton,,80,youtube,3.0,Audífonos BT,,Primaria,2021/2/4,11:29
+,,,medellin,Reggaeton,Bad Bunyn,147,Tidal,3.2,Computador,m,Secundaria,2020.12.7,1324
+USR00132,Carlos Martínez,25 años,Cali,,Metallica,29,Tidal,5.3,Celular,,,9-27-2022,23:16
+USR00133,Carlos Martínez,,Barranquilla,Rock,Carlos Vives,111,Amazon Music,,Parlante,No binario,Posgrado,25/9/2024,15:48:00
+USR00134,Isabella Martínez,32,CALI,POP,Metallica,170,Deezer,2.3,Computador,M,Tecnólogo,,
+USR00135,Sofía García,19,Bogotá,,,111,Apple Music,,Smart TV,,,,20h07
+USR00136,,,,SALSA,Bad Bunny,47,youtube,0.9,celular,M,Primaria,892019,9:18:00
+USR00137,,,Bogotá,Jazz,Bad Bnuny,80,,6.6,,No binario,universitario,20 dic 2019,1:43 PM
+USR00138,Valentina Vargas,20,,Clásica,Shakira,166,Tidal,1.0,Audífonos BT,M,Primaria,2022/15/6,7:58 PM
+USR00139,,16,Manizales,reggaeton,Grupo Niche,21,youtube,N/A,Parlante,M,Posgrado,2-9-21,
+USR00140,Alejandro González,45,Cali,Reggaeton,,,,1.9,Alexa,M,,2023.12.19,
+USR00141,Mariana Gutiérrez,,Bogotá,Pop,Metallica,100 aprox,youtube,6.9,,M,universitario,,
+USR00142,,61,Medellín,regueton,,51,Deezer,4.4,COMPUTADOR,No binario,Primaria,1/5/2019,14:52
+USR00143,María Vargas,68,Medellín,Rock,,156,YouTube,3.7,Smart TV,No binario,Primaria,4/3/2022,2107
+USR00144,,,Barranquilla,Salsa,Mozart,,YouTube,3.5,Celular,No binario,universitario,,22:27:00
+USR00145,Camila García,43,Manizales,,Carlos Vives,35,,8.0,COMPUTADOR,M,,3-10-19,
+USR00146,,42,CALI,,J Balvin,,youtube,,COMPUTADOR,F,Posgrado,9/2/2020,2:19 PM
+USR00147,Alejandro Ortiz,,Manizales,Electronic,,54,,4.4,Celular,No binario,Posgrado,,1025
+USR00148,Mariana Muñoz,68,,Hip-Hop,,10,Tidal,3h,Computador,m,TÉCNICO,2021.7.25,
+USR00149,Natalia Morales,65,,Reggaeton,,100 aprox,youtube,3.6,Tablet,No binario,TÉCNICO,,1730
+USR00150,Jorge González,22,CALI,Salsa,Bad Bunny,45,SoundCloud,6.3,Computador,,,21-12-20,2248
+USR00151,Valentina Gutiérrez,73,Manizales,Vallenato,Feid,98,SoundCloud,7.9,Celular,No binario,,2-16-2022,15h17
+USR00152,Andrés Ramos,,Medellín,Metal,Maluma,74,youtube,0.8,Computador,M,Posgrado,6-5-20,21.40
+USR00153,Juan Sánchez,40,Manizales,Jazz,Bad uBnny,170,SPOTIFY,6.7,,femenino,Tecnólogo,13/8/2019,7:38 PM
+USR00154,,75,Manizales,Hip-Hop,Carlos Vives,,SPOTIFY,7.8,,M,Técnico,12-2-2019,17h01
+USR00155,,,medellin,regueton,Carlos Vives,155,YouTube,4.3,Computador,Masculino,,2020.5.16,11:57pm
+USR00156,Sofía Vargas,39,Manizales,Metal,Shakira,40,SoundCloud,4.3,,No binario,,2020.11.22,
+USR00157,Camila Ortiz,21,,SALSA,J Balvin,26,Amazon Music,2.7,Tablet,m,Posgrado,12 oct 2022,22:44:00
+,Mariana Ramírez,16,Cali,Clásica,J Balvin,74,Amazon Music,2.8,Alexa,Masculino,universitario,18-4-20,2:34 PM
+USR00159,Camila Muñoz,75,Bogotá,Metal,J Balvin,89,Apple Music,3.1,Alexa,,Primaria,4 ago 2019,8:41:00
+USR00160,Sofía Ramírez,59,Bogotá,POP,Bad Bunny,,,1.5,Tablet,M,universitario,2020.9.27,7.51
+USR00161,,64,CALI,regueton,Metallica,30,Amazon Music,,Celular,femenino,Tecnólogo,7-6-19,8:23 PM
+USR00162,Mariana Flores,,Bogotá,reggaeton,Bad Bunny,56,Amazon Music,6.8,Computador,Masculino,Secundaria,2024/11/2,14.59
+USR00163,Jorge Sánchez,72,CALI,Rock,,,Spotify,7.0,,M,Universitario,8 feb 2019,10:33pm
+USR00164,Paula Gutiérrez,46,Cali,Clásica,,130,Tidal,5.8,Tablet,m,,2019/12/2,21:51:00
+USR00165,Carlos Flores,68,Manizales,Clásica,,N/D,YouTube,7.3,Tablet,F,Tecnólogo,2022.5.3,17.00
+USR00166,Andrés Ramírez,,Barranquilla,SALSA,,175,Amazon Music,3.6,Computador,Masculino,universitario,26-12-22,21.12
+USR00167,Juan Vargas,38,Manizales,Pop,Feid,41,youtube,todo el dia,,m,,2021.4.5,13h52
+USR00168,,30,Medellín,SALSA,Metallica,,Apple Music,3h,Tablet,femenino,TÉCNICO,19/4/2024,9:27:00
+USR00169,Alejandro García,72,,,Grupo Niche,184,Apple Music,6.5,Parlante,No binario,Posgrado,2023.7.26,5:38pm
+USR00170,Paula Castro,50,Barranquilla,Hip-Hop,Maluma,80,Tidal,,celular,,Técnico,11-24-2023,10h43
+USR00171,Valentina Morales,,Manizales,Jazz,Carlos Vives,151,Spotify,,Smart TV,M,universitario,27/1/2024,10:58
+USR00172,Paula Ramírez,55,Medellín,Clásica,Mozart,23,Deezer,0.9,celular,Masculino,Primaria,,5:05 PM
+USR00173,Felipe Vargas,20,Bogotá,Salsa,Mozart,,Tidal,0.9,,No binario,Tecnólogo,2019.11.17,16h53
+USR00174,,25 años,Medellín,,Metallica,106,,N/A,COMPUTADOR,M,Posgrado,1 ene 2021,13:47
+USR00175,Andrés Torres,,Medellín,Hip-Hop,Carlos Vives,88,Deezer,6.3,Smart TV,No binario,Primaria,,
+USR00176,Diego López,37,,POP,Shakira,194,SPOTIFY,,Smart TV,,Secundaria,2023/6/11,
+USR00177,Valentina García,24,Medellín,,J Balvin,20,Apple Music,1.7,Parlante,No binario,Universitario,2021/14/8,
+USR00178,Carlos Pérez,69,CALI,,Mozart,100 aprox,YouTube,1.5,Alexa,F,Secundaria,26/3/2023,950
+USR00179,Jorge Ortiz,61,medellin,Salsa,Feid,10,SPOTIFY,3.0,Celular,No binario,Técnico,3-15-2023,14:07
+USR00180,Mariana Martínez,,,,Grupo Niche,,,,,femenino,,5-2-23,4:10 PM
+USR00181,María López,22,Barranquilla,regueton,Bad Bunny,165,Tidal,,,,Tecnólogo,2020.5.28,1422
+USR00182,Mariana Ramos,46,Medellín,Metal,Mozart,50,Spotify,0.9,Parlante,,Posgrado,20-12-24,
+,,16,Manizales,Reggaeton,Feid,170,Spotify,4.3,Alexa,Masculino,,22 jun 2022,
+USR00184,Laura López,68,medellin,Salsa,,100 aprox,YouTube,7.3,Computador,femenino,,5/1/2024,11:57:00
+USR00185,Isabella Gutiérrez,64,Bogotá,,aBd Bunny,126,Tidal,2.9,COMPUTADOR,femenino,,,13.34
+,Diego Vargas,41,Cali,Reggaeton,Bad Bunny,161,YouTube,,,femenino,Secundaria,2023.10.28,
+USR00187,María García,70,,,Bad uBnny,153,youtube,7.4,Smart TV,,Posgrado,2022/4/10,1257
+,Andrés Muñoz,56,Medellín,,Bad Bunny,131,Tidal,4.4,Smart TV,No binario,Universitario,2762021,13:04
+USR00189,Natalia Morales,35,Manizales,Vallenato,Carlos Vives,,SoundCloud,6.6,Smart TV,,,7/14/2023,1128
+USR00190,Paula Ortiz,31,Cali,Hip-Hop,J Balvin,195,,3h,,m,Tecnólogo,2024.5.4,7:03:00
+USR00191,Laura Torres,37,medellin,,,80,YouTube,5.1,COMPUTADOR,m,Posgrado,2024/16/5,12:58
+USR00192,María Vargas,29,Medellín,Rock,Shakira,50,,7.5,Audífonos BT,No binario,,4/28/2021,11:20:00
+USR00193,Natalia Flores,26,medellin,Pop,,190,Spotify,0.5,Smart TV,No binario,,5/5/2023,9.32
+USR00194,María Vargas,44,medellin,Reggaeton,J Balvin,131,Spotify,2.0,Computador,m,Primaria,2020.7.26,12:24 PM
+USR00195,David Muñoz,,,Salsa,Feid,33,Amazon Music,7.8,Computador,Masculino,Secundaria,2023.7.3,
+USR00196,Paula González,,medellin,Metal,Bad Bunny,44,YouTube,6.7,Alexa,m,Posgrado,14122019,14h00
+USR00197,,72,,Vallenato,Mozart,184,Tidal,6.1,COMPUTADOR,M,Técnico,20-9-20,8.37
+USR00198,Andrés Morales,27,Bogotá,Reggaeton,Bad Bunny,muchas,Apple Music,5.4,Alexa,femenino,universitario,21-11-22,1126
+USR00199,Paula Morales,,Cali,Jazz,Feid,14,,6.1,COMPUTADOR,,Universitario,2021/1/11,9:14
+USR00200,Diego Martínez,30,,reggaeton,Feid,N/D,Spotify,N/A,Alexa,,Tecnólogo,2024.4.27,
+USR00201,Valentina Sánchez,32,Barranquilla,reggaeton,Bad Bunny,57,Deezer,5.9,Celular,F,universitario,3 ene 2024,7:47
+USR00202,María Jiménez,28,Medellín,Electronic,Maluma,169,Spotify,3.6,celular,m,,2023/18/2,14:45
+USR00203,Diego Jiménez,21,,,Grupo Niche,187,Amazon Music,1.5,Smart TV,No binario,universitario,22/2/2021,6:23pm
+USR00204,María Flores,26,,Clásica,Metallica,muchas,youtube,3h,COMPUTADOR,femenino,Universitario,,7.32
+USR00205,Sofía Herrera,48,Medellín,,Ba dBunny,N/D,Amazon Music,3.0,,m,Posgrado,22 ene 2022,753
+,Jorge Ortiz,,,,J Balvin,70,youtube,,,M,,2022/17/9,
+USR00207,Mariana García,53,Medellín,,Mozart,192,SPOTIFY,4.1,,F,Secundaria,18-9-22,10:02 PM
+USR00208,Isabella Herrera,69,Cali,Jazz,Bad Bunny,40,SPOTIFY,7.1,Alexa,No binario,,2019/3/7,1:36pm
+USR00209,,13,Medellín,Vallenato,Carlos Vives,7,Amazon Music,0.8,COMPUTADOR,No binario,Secundaria,2022.6.26,12:36pm
+USR00210,,59,Medellín,Pop,Bad Bunny,20,Spotify,3.4,celular,F,,2 abr 2019,6.32
+USR00211,Carlos Pérez,65,Manizales,Clásica,aBd Bunny,,Apple Music,3.8,Smart TV,femenino,Secundaria,21-8-19,
+USR00212,,75,Medellín,Hip-Hop,Shakira,67,SPOTIFY,todo el dia,Parlante,F,Técnico,24-4-22,804
+USR00213,Felipe González,N/A,,Rock,Bad Bunny,75,SoundCloud,3.9,,,Técnico,5-5-2019,9h23
+USR00214,,32,Bogotá,Pop,Feid,115,,4.2,Alexa,,,2023/8/11,22.49
+USR00215,María Rodríguez,57,Manizales,Salsa,Bad Bunny,44,SoundCloud,,,M,Secundaria,12-5-2020,2:03 PM
+USR00216,María Herrera,59,Cali,regueton,Bad Bunny,,Tidal,5.5,,No binario,Universitario,2-17-2020,
+USR00217,Carlos García,66,,Electronic,J Balvin,124,SPOTIFY,,,No binario,Técnico,2023.5.14,20h10
+USR00218,Camila Martínez,38,CALI,Metal,,191,SPOTIFY,3.6,celular,,,2024/12/5,7h20
+USR00219,Camila Jiménez,24,Medellín,Vallenato,Shakira,94,Tidal,6.2,Computador,m,Tecnólogo,2020.9.26,
+USR00220,Natalia González,69,medellin,POP,J Balvin,168,Tidal,7.9,Audífonos BT,F,,,6h22
+,,64,Bogotá,Salsa,Grupo Niche,66,Amazon Music,6.3,Smart TV,,,19 mar 2019,
+USR00222,,19,Manizales,Metal,,108,youtube,,,,TÉCNICO,2023.6.16,9:08pm
+USR00223,Mariana Ramírez,72,Manizales,Rock,Grupo Niche,108,Spotify,7.2,COMPUTADOR,Masculino,Técnico,242022,14.43
+USR00224,Luis Pérez,34,Barranquilla,Metal,Mozart,muchas,Amazon Music,,Parlante,m,Universitario,10-24-2021,13:24:00
+,David Ortiz,19,,Electronic,Mozart,N/D,Deezer,6.8,Computador,m,,,8:59 PM
+USR00226,Natalia Martínez,19,,,Mozart,,Amazon Music,4.4,COMPUTADOR,F,,17-11-23,10:47:00
+,,N/A,Manizales,Pop,Bad Bunny,164,,1.1,Smart TV,Masculino,Tecnólogo,2022/15/5,23h24
+,,44,Manizales,SALSA,Feid,,Apple Music,1.3,Computador,m,Posgrado,,
+USR00229,Jorge Flores,,medellin,,Maluma,,Deezer,0.7,COMPUTADOR,,TÉCNICO,2024.3.22,6:13
+USR00230,,30,Barranquilla,,Maluma,142,YouTube,1.9,celular,m,TÉCNICO,20 mar 2024,8h05
+USR00231,,13,Medellín,SALSA,Metallica,181,Amazon Music,3h,Smart TV,F,Tecnólogo,3122022,
+USR00232,Paula Vargas,14,,Vallenato,,77,Spotify,3h,Celular,Masculino,,17/3/2019,14:48
+USR00233,,64,,Reggaeton,Metallica,65,Apple Music,6.0,celular,Masculino,TÉCNICO,2021.4.12,8:31
+USR00234,,59,medellin,Vallenato,Bad Bunny,36,YouTube,,,F,Secundaria,13/2/2019,9:03am
+USR00235,Diego Vargas,72,Medellín,Metal,,183,Tidal,,Audífonos BT,,,2021/11/7,10:09am
+USR00236,,53,,Metal,Carlos Vives,18,SoundCloud,4.3,Computador,,universitario,2-18-2019,8:15pm
+USR00237,,63,,,Metallica,31,Tidal,2.4,Smart TV,,TÉCNICO,12/15/2020,10:56pm
+USR00238,,48,Cali,,Maluma,171,,0.9,,femenino,Primaria,14 may 2020,13:53:00
+,Laura Vargas,46,Barranquilla,,Bad Bunny,184,Spotify,3.4,celular,m,universitario,2019/9/8,
+USR00240,David Rodríguez,56,medellin,,Metallica,,,6.8,Audífonos BT,M,,26-12-21,12.33
+USR00241,Carlos Vargas,41,Cali,Salsa,Carlos Vives,,,4.2,Computador,femenino,Tecnólogo,19 nov 2024,12:17pm
+USR00242,Luis Rodríguez,45,medellin,Hip-Hop,Bda Bunny,145,,2.9,,Masculino,Tecnólogo,10 may 2019,13:55:00
+USR00243,Sofía Sánchez,41,Medellín,regueton,Feid,91,,4.5,Alexa,,universitario,1032020,7:26 AM
+USR00244,Felipe Ortiz,17,Bogotá,Metal,Metallica,173,Amazon Music,0.6,COMPUTADOR,M,Primaria,7/15/2019,9.47
+USR00245,Juan Muñoz,,Medellín,Electronic,Grupo Niche,86,Tidal,0.6,,F,TÉCNICO,11-20-2024,19:55
+,Valentina López,75,,Clásica,Shakira,190,Tidal,,Audífonos BT,m,,2023.5.16,12:02pm
+USR00247,Laura Gutiérrez,57,Bogotá,Metal,Carlos Vives,174,,1.5,Alexa,Masculino,Primaria,6 ago 2019,10:28 AM
+USR00248,Paula Rodríguez,,,,Mozart,31,,1.7,,,TÉCNICO,3-10-2019,12:56pm
+USR00249,,19,Manizales,Vallenato,Carlos Vives,,Spotify,3.1,celular,m,Técnico,2019/28/1,18h50
+USR00250,,30,Manizales,Rock,Shakira,24,youtube,4.7,Celular,femenino,TÉCNICO,6-15-2020,13.10
+USR00251,,,Manizales,Jazz,Maluma,125,SoundCloud,5.0,Alexa,F,Tecnólogo,992019,
+USR00252,Ana González,,Bogotá,regueton,Mozart,114,Spotify,,,F,TÉCNICO,4122023,15.28
+USR00253,Valentina Flores,54,,,,147,Tidal,4.9,Smart TV,M,TÉCNICO,28-9-21,923
+USR00254,Valentina Sánchez,30,Cali,,Metallica,48,Amazon Music,6.6,,femenino,Primaria,12-12-2021,6.57
+USR00255,Felipe Ramírez,12,Cali,Pop,Metallica,muchas,Apple Music,5.1,Celular,No binario,,2019/12/3,901
+USR00256,Carlos Díaz,72,Manizales,regueton,,57,SPOTIFY,3.0,COMPUTADOR,F,Primaria,9-12-24,8:28am
+USR00257,Andrés Castro,67,Bogotá,Pop,,86,Apple Music,5.3,Celular,,Primaria,2022.4.7,15:05
+USR00258,Laura Vargas,41,Bogotá,reggaeton,Shakira,115,,5.0,,,Secundaria,12 may 2019,14:18:00
+,,N/A,Medellín,POP,Carlos Vives,128,Apple Music,6.2,Celular,Masculino,Posgrado,20 abr 2019,4:11pm
+USR00260,Natalia Rodríguez,39,Manizales,Reggaeton,,56,Apple Music,6.3,Smart TV,femenino,,1 jun 2021,
+USR00261,Sebastián Vargas,75,CALI,Hip-Hop,,195,,,Audífonos BT,M,Universitario,4/5/2019,
+,Sebastián Díaz,62,medellin,reggaeton,Shakira,118,SoundCloud,5.8,celular,Masculino,,152021,1930
+USR00263,Felipe Martínez,62,Cali,Pop,,114,Apple Music,,celular,No binario,Universitario,16-10-20,
+USR00264,Sebastián Castro,61,Bogotá,Pop,Bad Bunny,120,,1.8,,,universitario,8 jul 2023,1329
+USR00265,Sebastián Morales,48,Manizales,Hip-Hop,,,,3.7,Parlante,,TÉCNICO,13-5-21,12:29 PM
+,,17,Manizales,Jazz,,28,Deezer,,COMPUTADOR,M,Tecnólogo,12/2/2020,2229
+USR00267,,57,,Pop,,13,YouTube,3.4,,M,,2024.6.7,
+USR00268,Natalia Martínez,,CALI,Hip-Hop,Feid,104,Deezer,1.8,Parlante,,TÉCNICO,12-4-23,6:08pm
+USR00269,Luis Muñoz,34,CALI,Hip-Hop,Metallica,182,,6.8,Parlante,M,TÉCNICO,2024/23/10,10.07
+USR00270,Valentina Ortiz,46,Medellín,Jazz,Mozart,174,SoundCloud,,Celular,F,,25/9/2023,1:22 PM
+USR00271,Sebastián Ramírez,68,Medellín,reggaeton,Maluma,25,youtube,7.0,Computador,No binario,Primaria,11/7/2024,1:46 PM
+USR00272,Natalia Vargas,44,,Metal,,10,Apple Music,1.4,Computador,No binario,Secundaria,2023.4.28,13h14
+,Juan Castro,35,Cali,POP,Carlos Vives,195,SoundCloud,7.0,Tablet,Masculino,TÉCNICO,2020.2.20,6:00 AM
+USR00274,,,Bogotá,Salsa,J Balvin,56,Tidal,5.2,Alexa,,,25 Sep 2024,
+USR00275,Diego Muñoz,40,Medellín,regueton,Grupo Niche,,YouTube,2.2,Parlante,F,Posgrado,10-27-2019,22:04:00
+USR00276,Mariana Ramírez,19,Medellín,Clásica,Feid,56,Tidal,6.5,,M,universitario,1632022,15:54
+USR00277,Sebastián Vargas,37,CALI,reggaeton,Bad Bunyn,170,YouTube,6.0,,femenino,Tecnólogo,19 oct 2024,3:08pm
+,Natalia Díaz,57,Cali,Jazz,Carlos Vives,198,Tidal,5.4,,M,Universitario,,6:06:00
+USR00279,Ana Gutiérrez,62,CALI,Pop,Carlos Vives,67,Deezer,N/A,,,universitario,11-5-2021,16.39
+USR00280,Juan López,59,Bogotá,Rock,Mozart,71,Amazon Music,,COMPUTADOR,m,,18/3/2023,2210
+USR00281,,15,CALI,,Carlos Vives,101,Spotify,7.1,Audífonos BT,m,,11-4-2020,10:34pm
+USR00282,Alejandro López,63,Manizales,regueton,,78,SPOTIFY,3h,Audífonos BT,Masculino,Secundaria,5/1/2023,
+USR00283,Diego González,,,SALSA,Grupo Niche,82,YouTube,1.3,COMPUTADOR,M,Posgrado,2/12/2022,741
+,Ana Herrera,48,,POP,Metallica,71,Tidal,N/A,celular,,universitario,9-9-24,16:50:00
+USR00285,Isabella Jiménez,38,medellin,POP,Mozart,145,Tidal,2.4,Audífonos BT,m,Técnico,2132021,7:30 AM
+USR00286,,N/A,CALI,Clásica,Grupo Niche,162,Amazon Music,5.2,COMPUTADOR,,universitario,19102023,9h39
+USR00287,Andrés Ramírez,67,Bogotá,Vallenato,Feid,173,Amazon Music,3.0,Alexa,,universitario,,10.58
+,Sofía Jiménez,29,CALI,Electronic,Maluma,135,Deezer,2.2,Computador,,Universitario,11/8/2024,11.10
+USR00289,María Ortiz,,CALI,SALSA,,muchas,SoundCloud,3h,,Masculino,Primaria,2020.7.15,1147
+USR00290,Natalia Ramírez,70,medellin,,Shakira,140,YouTube,3.6,Celular,F,Secundaria,8-15-2020,8:18pm
+USR00291,Paula Vargas,36,Manizales,Reggaeton,J Balvin,88,Deezer,7.5,,,,2152023,14.02
+USR00292,Andrés Pérez,42,Bogotá,,Bad Bunny,,,4.8,Audífonos BT,No binario,Tecnólogo,15 Sep 2020,15h21
+USR00293,Natalia Vargas,30,Bogotá,,Metallica,76,Tidal,7.2,celular,femenino,Técnico,6/3/2022,21.31
+,Valentina Pérez,69,Medellín,Salsa,aBd Bunny,113,SoundCloud,,Audífonos BT,,Secundaria,2024.2.19,11:41pm
+USR00295,María Ramos,44,Cali,regueton,,,,1.2,,No binario,,2/14/2020,10:03
+USR00296,Valentina Ramírez,,Medellín,Electronic,,91,Deezer,2.4,Celular,F,Posgrado,2/17/2021,22h49
+,Laura Pérez,31,,Vallenato,J Balvin,24,,0.7,celular,No binario,Primaria,11/4/2023,19.58
+USR00298,Camila Sánchez,23,Medellín,Vallenato,Carlos Vives,93,Apple Music,,Parlante,M,Universitario,8/8/2019,16:41:00
+,,19,Manizales,SALSA,J Balvin,100 aprox,SPOTIFY,,Computador,No binario,Posgrado,9-3-22,19:05:00
+,Sofía Herrera,67,Cali,Hip-Hop,Mozart,34,youtube,5.6,Tablet,m,Universitario,,1956
+USR00301,,23,,Salsa,Bad Bunny,160,,1.0,COMPUTADOR,,Posgrado,2024/8/9,17:04:00
+USR00302,Diego Muñoz,34,Bogotá,Hip-Hop,Maluma,,,7.9,Computador,m,Secundaria,2023.11.3,7:15 AM
+USR00303,,36,medellin,,,,Apple Music,6.4,Parlante,Masculino,Universitario,2020.10.15,7:05:00
+USR00304,Sebastián Jiménez,61,,regueton,BadB unny,12,youtube,0.9,Computador,F,universitario,6/7/2020,9:27:00
+USR00305,Isabella Torres,71,Barranquilla,Electronic,Feid,166,Apple Music,todo el dia,Alexa,Masculino,Técnico,2024/19/12,16.00
+USR00306,Luis Díaz,,medellin,Rock,,,Spotify,3.2,COMPUTADOR,m,Secundaria,1/14/2019,12:34
+USR00307,Natalia Ramírez,29,,reggaeton,Bad Bunyn,21,SoundCloud,,Computador,,universitario,1142021,7:01:00
+USR00308,Luis Vargas,N/A,,,Mozart,19,Apple Music,1.6,Audífonos BT,m,Tecnólogo,2020.11.6,8:59 AM
+USR00309,Carlos Rodríguez,43,,Pop,Metallica,8,youtube,4.2,,No binario,Secundaria,1/12/2022,23.31
+USR00310,Valentina Herrera,36,medellin,Electronic,Bad Bunny,134,Spotify,,celular,No binario,Primaria,11-1-20,1706
+USR00311,Laura Castro,57,Manizales,Salsa,Maluma,67,Apple Music,0.5,,F,Técnico,,11h38
+,,Veintiocho,Barranquilla,Metal,Maluma,147,Deezer,6.1,Parlante,m,Secundaria,2020.4.2,3:19 PM
+,Isabella Flores,Veintiocho,,,Ba dBunny,,Apple Music,4.9,COMPUTADOR,M,universitario,2024.1.2,
+USR00314,Carlos Morales,26,Manizales,Salsa,Maluma,112,youtube,N/A,,No binario,Técnico,2022/8/10,
+USR00315,,58,,Vallenato,,148,Tidal,3.3,,,Universitario,,11:44pm
+USR00316,Alejandro Jiménez,N/A,Cali,Rock,Grupo Niche,184,YouTube,4.8,Parlante,,Técnico,17-8-19,7:46am
+USR00317,Isabella Ortiz,58,Medellín,,Bad Bunny,63,SoundCloud,3.4,Smart TV,Masculino,Posgrado,1422021,1052
+USR00318,Camila López,49,Cali,regueton,Shakira,85,Spotify,7.6,Celular,No binario,Primaria,,
+USR00319,,18,Cali,Reggaeton,Mozart,165,,7.5,Smart TV,femenino,Universitario,6-27-2021,11:17am
+USR00320,Natalia Martínez,35,Bogotá,Reggaeton,Carlos Vives,115,Apple Music,4.9,celular,Masculino,Universitario,1872020,22h22
+USR00321,María López,28,Bogotá,,,121,youtube,6.3,Tablet,No binario,Tecnólogo,11-11-24,7:30am
+,Paula Castro,N/A,medellin,Clásica,J Balvin,41,Amazon Music,todo el dia,Computador,,,12 Sep 2020,14h49
+USR00323,María Torres,,CALI,Metal,Bad Bunny,N/D,YouTube,8.0,Tablet,femenino,Universitario,,6.28
+USR00324,Felipe Gutiérrez,62,Bogotá,SALSA,Carlos Vives,,youtube,7.8,Tablet,,Secundaria,6/2/2020,
+USR00325,Laura González,48,Cali,Rock,,,Amazon Music,4.2,Parlante,No binario,Posgrado,3-6-22,23h25
+USR00326,Juan García,12,CALI,Reggaeton,Metallica,148,YouTube,,Computador,F,Posgrado,5-25-2020,9:05am
+USR00327,Ana Morales,38,Medellín,Metal,Bad Bunny,62,Amazon Music,7.8,Celular,Masculino,Primaria,9-5-19,16.30
+USR00328,Luis Flores,,medellin,Hip-Hop,Metallica,133,,2.7,,femenino,Técnico,21-3-24,5:21 PM
+USR00329,Sofía Castro,24,Medellín,POP,,5,Amazon Music,3.1,celular,M,TÉCNICO,2024/15/2,9:50 PM
+USR00330,,,,Clásica,Feid,135,SPOTIFY,4.4,celular,,Primaria,14/11/2019,7:14 AM
+USR00331,Jorge Sánchez,59,medellin,Electronic,Bad Bunny,168,YouTube,5.2,,femenino,universitario,16122022,6:32am
+USR00332,,25 años,medellin,Metal,Metallica,155,,5.3,Computador,m,,9/7/2019,14:13:00
+,Andrés López,N/A,,Salsa,Mozart,89,SPOTIFY,8.0,Parlante,m,,25-9-24,5:30pm
+USR00334,Diego Gutiérrez,58,CALI,Metal,Bad Bunny,88,,5.6,Computador,F,,10-18-2023,22h46
+USR00335,Valentina Jiménez,35,medellin,Reggaeton,Feid,187,Tidal,3.8,Parlante,,,,1146
+USR00336,Sebastián García,22,Cali,POP,Carlos Vives,134,Deezer,7.3,,,,2019.6.12,1810
+USR00337,,42,medellin,Metal,Maluma,124,Spotify,5.8,Parlante,F,Posgrado,27 ene 2019,11.30
+USR00338,Isabella López,14,Bogotá,Vallenato,Bad Bunny,87,youtube,4.0,,F,Primaria,15 abr 2024,5:40 PM
+USR00339,Carlos González,70,medellin,SALSA,Feid,,Tidal,,Computador,,Universitario,4-10-24,11:55
+USR00340,Luis Jiménez,,Manizales,Rock,,51,,4.2,COMPUTADOR,m,Primaria,6-4-23,6h44
+USR00341,,60,Cali,Metal,Mozart,,Deezer,1.5,Parlante,femenino,,11/5/2021,8:25:00
+,,48,medellin,Jazz,Carlos Vives,167,Amazon Music,7.1,Computador,Masculino,,,4:51 PM
+USR00343,Juan Ortiz,Veintiocho,,,Bad Bunny,145,,6.6,Audífonos BT,,Universitario,17 jun 2022,13.09
+USR00344,,12,Medellín,Jazz,,166,SoundCloud,1.9,celular,femenino,,1 abr 2021,8h22
+USR00345,,25,medellin,Jazz,,8,SPOTIFY,3h,COMPUTADOR,m,Técnico,2023/21/10,1804
+USR00346,Sebastián Martínez,,Bogotá,Reggaeton,J Balvin,123,Deezer,3.6,Tablet,No binario,,1 ago 2022,22:57:00
+USR00347,Camila Gutiérrez,58,Bogotá,Reggaeton,Bad Bunny,,Spotify,6.4,,M,Técnico,4-6-2020,10:40
+,David Sánchez,,,Hip-Hop,,33,,7.4,,Masculino,,5122019,823
+USR00349,Laura Morales,66,Cali,Rock,J Balvin,176,youtube,2.6,,,universitario,2024/3/6,1:59 PM
+USR00350,Luis Castro,12,Bogotá,Metal,,139,youtube,1.4,celular,,TÉCNICO,,8:31pm
+USR00351,,48,Manizales,Jazz,Mozart,24,Tidal,,Tablet,,Universitario,11 ago 2020,1402
+USR00352,,59,,reggaeton,Maluma,167,Spotify,,Alexa,F,Técnico,8/4/2022,7h38
+USR00353,Mariana López,68,,Hip-Hop,,197,SPOTIFY,1.4,,No binario,Técnico,12-8-19,6.39
+USR00354,Isabella López,63,Manizales,Vallenato,J Balvin,127,Deezer,2.7,Parlante,m,TÉCNICO,3-19-2022,17:43:00
+USR00355,Mariana Rodríguez,18,Medellín,,Carlos Vives,32,,N/A,COMPUTADOR,,,24/11/2022,9:58 PM
+USR00356,Ana López,28,Bogotá,SALSA,Feid,116,,,Smart TV,m,TÉCNICO,11/10/2021,15:21
+USR00357,Alejandro Ortiz,66,Barranquilla,Reggaeton,Metallica,118,,1.8,Computador,m,Tecnólogo,2020/3/2,9.35
+,Diego Sánchez,55,Manizales,,Grupo Niche,146,,1.9,Tablet,femenino,Primaria,3-11-2021,18.11
+USR00359,Juan Castro,,,Hip-Hop,Mozart,34,SPOTIFY,1.0,Tablet,Masculino,Tecnólogo,,13:27:00
+USR00360,Mariana Vargas,13,,SALSA,Mozart,157,Tidal,4.4,COMPUTADOR,M,TÉCNICO,,
+USR00361,,49,Cali,Hip-Hop,Feid,91,youtube,5.8,Smart TV,m,TÉCNICO,9122022,21.39
+,Jorge Vargas,,Barranquilla,regueton,Feid,65,Tidal,3.9,Smart TV,F,Posgrado,,22:03:00
+USR00363,Mariana Herrera,,Bogotá,Pop,Feid,67,,4.0,Parlante,Masculino,,15/1/2022,4:59 PM
+USR00364,María Gutiérrez,64,Bogotá,,Grupo Niche,102,,,Celular,F,Secundaria,11/9/2021,
+USR00365,Sofía García,,Manizales,reggaeton,Metallica,94,SPOTIFY,5.7,Audífonos BT,F,TÉCNICO,10/13/2021,7:00 AM
+,Mariana Muñoz,75,medellin,Metal,Metallica,64,YouTube,5.7,,,universitario,13 oct 2022,13:38
+USR00367,Andrés Gutiérrez,42,CALI,,Feid,35,Apple Music,2.9,Computador,m,Universitario,2-11-22,
+USR00368,,43,,reggaeton,Shakira,91,Spotify,3.9,Parlante,Masculino,Secundaria,1872021,23:07
+,,22,medellin,Vallenato,Bad uBnny,7,Amazon Music,2.3,,femenino,universitario,27/4/2022,1944
+USR00370,,35,medellin,Electronic,Carlos Vives,109,SoundCloud,4.8,,Masculino,Universitario,2021.5.3,13h14
+USR00371,María Herrera,33,Manizales,Clásica,Metallica,,Deezer,,Audífonos BT,No binario,universitario,18122019,15.06
+USR00372,Laura Gutiérrez,39,,reggaeton,Maluma,,Deezer,,Smart TV,femenino,Tecnólogo,28-10-24,12.33
+USR00373,Valentina Ramos,29,,,J Balvin,147,YouTube,0.6,Computador,,,2022/20/12,
+USR00374,Felipe Ramírez,N/A,,regueton,Bad Bunny,69,YouTube,1.0,celular,,Primaria,12 ago 2024,8:04am
+USR00375,Juan Ramírez,45,Cali,Hip-Hop,,107,youtube,6.8,Smart TV,M,Tecnólogo,1462020,8:54pm
+,Laura Rodríguez,48,,reggaeton,,195,SoundCloud,,Tablet,Masculino,,2019.10.6,6:20pm
+USR00377,,N/A,,Reggaeton,aBd Bunny,177,SPOTIFY,2.8,,m,Primaria,19/6/2023,15:49:00
+USR00378,Natalia Flores,,Cali,,Mozart,152,Apple Music,2.7,Celular,m,Técnico,22/9/2020,9:37pm
+,,73,Medellín,reggaeton,Feid,176,YouTube,6.7,Tablet,Masculino,universitario,19 abr 2021,12h54
+USR00380,Andrés López,16,Manizales,,,,SPOTIFY,1.8,COMPUTADOR,No binario,TÉCNICO,27/1/2024,6:51am
+USR00381,Alejandro Vargas,61,Manizales,SALSA,Carlos Vives,,Deezer,7.6,Tablet,,,13-10-24,8h08
+USR00382,Andrés Gutiérrez,22,Barranquilla,Clásica,Metallica,10,,2.7,,Masculino,Tecnólogo,2019.12.24,20:02
+USR00383,,26,Barranquilla,reggaeton,,199,youtube,6.2,Audífonos BT,,,,
+USR00384,Sofía Ortiz,56,Medellín,Salsa,Maluma,156,Deezer,0.6,Audífonos BT,,Posgrado,2019.3.10,17.36
+USR00385,Natalia Muñoz,,Medellín,reggaeton,Bad Bunny,175,Deezer,5.7,Smart TV,m,,2632022,
+USR00386,Alejandro Pérez,35,,,Mozart,114,Spotify,5.7,Alexa,,,,7:59:00
+USR00387,Camila Sánchez,58,Bogotá,,,147,Deezer,2.6,Celular,,Técnico,22/9/2019,1916
+USR00388,Juan Muñoz,35,CALI,Metal,Feid,163,Amazon Music,todo el dia,celular,femenino,,8/10/2022,11h47
+USR00389,,36,,Reggaeton,,51,Apple Music,1.3,Celular,,Técnico,8 feb 2022,9:45 AM
+,Carlos Sánchez,,,regueton,Feid,10,Spotify,0.8,celular,No binario,TÉCNICO,12/12/2023,8:50 AM
+USR00391,María Herrera,27,Medellín,,Ba dBunny,100 aprox,Deezer,1.8,Celular,m,Universitario,21-8-21,14:56
+USR00392,Jorge Herrera,51,Medellín,Pop,Carlos Vives,57,Apple Music,7.9,Audífonos BT,M,Tecnólogo,6-17-2021,22.27
+USR00393,Alejandro García,13,CALI,POP,,100 aprox,YouTube,7.2,COMPUTADOR,F,Universitario,19-6-24,12:58 PM
+USR00394,Sofía Sánchez,N/A,,Hip-Hop,Shakira,muchas,,3.3,Parlante,No binario,universitario,2023.7.23,10:22pm
+USR00395,,62,,SALSA,Maluma,186,Deezer,3h,,femenino,Universitario,20-5-19,11:10 PM
+USR00396,,,Medellín,,Carlos Vives,83,Tidal,5.4,Celular,Masculino,,2020/19/8,14h22
+USR00397,Paula Flores,52,Barranquilla,Electronic,aBd Bunny,,Apple Music,4.9,COMPUTADOR,M,Primaria,27-8-22,1622
+USR00398,,36,CALI,,Maluma,160,Tidal,,COMPUTADOR,F,universitario,2542024,21:22
+USR00399,Juan Ortiz,,Barranquilla,Electronic,Shakira,N/D,,1.3,celular,Masculino,TÉCNICO,13102022,625
+USR00400,,13,,Jazz,Bad Bunyn,21,Apple Music,1.8,,Masculino,TÉCNICO,2023/9/3,7h39
+,,74,Barranquilla,Metal,Maluma,,,2.0,,No binario,,14/11/2022,
+USR00402,,70,,Reggaeton,Carlos Vives,142,,2.7,,m,Primaria,16-12-21,3:06 PM
+,Paula Morales,,Barranquilla,Rock,Shakira,38,Spotify,1.6,celular,,Primaria,26/9/2021,11:22
+USR00404,Diego López,31,Medellín,regueton,Mozart,,YouTube,6.8,Computador,F,universitario,18 may 2023,
+USR00405,Sofía Flores,39,,Metal,Metallica,112,YouTube,1.9,Smart TV,m,,18/3/2023,
+USR00406,,,,Vallenato,,14,Spotify,,Parlante,Masculino,,9 jun 2019,10:47 PM
+USR00407,Felipe Díaz,38,Manizales,Reggaeton,Mozart,169,SPOTIFY,7.5,,No binario,Secundaria,2022.9.7,8:11 PM
+,,53,Manizales,Reggaeton,,169,SPOTIFY,6.4,Smart TV,F,Tecnólogo,,
+USR00409,Natalia Gutiérrez,,,reggaeton,aBd Bunny,69,YouTube,3h,Computador,M,Universitario,27102024,10:50 AM
+,Isabella Martínez,53,Bogotá,Reggaeton,,116,Amazon Music,7.5,Parlante,,TÉCNICO,5-14-2022,9:21am
+,Natalia García,13,Manizales,,,,SPOTIFY,0.8,,,Universitario,5/11/2021,14.29
+USR00412,David Ramírez,52,,Hip-Hop,Bad Bunny,37,,2.4,Celular,,universitario,21-7-22,9:46
+USR00413,,23,,,Maluma,6,,,Smart TV,F,,2024.5.16,19:23:00
+,Laura Ramos,68,medellin,SALSA,,163,Tidal,4.2,Tablet,M,Secundaria,,3:51 PM
+USR00415,,35,Cali,Vallenato,,77,,4.9,Smart TV,No binario,Tecnólogo,632019,9:52
+USR00416,Isabella Ramos,18,Bogotá,Electronic,,30,Spotify,1.0,,F,universitario,19 may 2019,6:56:00
+,Felipe Jiménez,16,Manizales,reggaeton,,14,YouTube,4.9,celular,No binario,Tecnólogo,2-13-2023,20.28
+USR00418,Andrés Muñoz,,Barranquilla,Jazz,Bad Bunny,182,,4.8,Computador,No binario,Universitario,9 feb 2024,10:08
+USR00419,,12,medellin,Clásica,,186,,2.8,Parlante,Masculino,Técnico,12/16/2021,6.59
+USR00420,Juan Pérez,68,,,Feid,88,,3.1,,m,,21122022,16:14
+USR00421,Sebastián Jiménez,20,CALI,Reggaeton,,142,,N/A,Parlante,,Técnico,26 oct 2023,6.21
+,David Ramos,20,Barranquilla,Clásica,Carlos Vives,45,youtube,N/A,celular,M,,2112023,7:11:00
+USR00423,,,Medellín,Electronic,Carlos Vives,41,Tidal,,COMPUTADOR,femenino,Primaria,2572020,805
+USR00424,David Martínez,43,medellin,POP,Metallica,196,Tidal,1.9,Alexa,Masculino,Primaria,2023.7.16,7:30 PM
+USR00425,Valentina González,71,CALI,Rock,Metallica,88,Tidal,1.7,Alexa,M,,2022/14/3,11:51:00
+USR00426,Laura Morales,20,medellin,Hip-Hop,Bad Bunny,93,YouTube,2.3,Audífonos BT,,TÉCNICO,13-6-21,22:35
+,María Vargas,25 años,medellin,Clásica,J Balvin,172,Apple Music,0.8,Audífonos BT,M,Tecnólogo,10/25/2020,2:42pm
+USR00428,Ana Martínez,57,Medellín,,Bad Bunyn,157,,2.6,Audífonos BT,,universitario,26/4/2021,14.35
+USR00429,,68,Medellín,,Bda Bunny,43,Spotify,N/A,Computador,Masculino,Universitario,21/7/2022,16.56
+USR00430,,,Bogotá,Reggaeton,Bad Bunny,36,Spotify,4.7,,M,Técnico,2024/14/12,14.22
+,Felipe Martínez,30,Cali,,Maluma,100 aprox,,3.2,Parlante,m,,2662022,8.40
+USR00432,María Flores,46,Bogotá,POP,Grupo Niche,N/D,Apple Music,4.5,Smart TV,,Primaria,,15:43
+USR00433,Andrés Ramírez,Veintiocho,CALI,,Mozart,,,5.5,Audífonos BT,,,11-3-21,15:09
+USR00434,Mariana Ramos,,Medellín,Metal,Mozart,90,Amazon Music,5.9,Celular,femenino,universitario,11-5-2021,10:14 PM
+USR00435,Juan Ramírez,,CALI,Hip-Hop,,163,Spotify,2.7,Parlante,F,,4 ago 2019,21h54
+USR00436,Jorge Morales,57,Manizales,,,182,SPOTIFY,4.9,,femenino,Tecnólogo,17-8-20,13.41
+USR00437,Alejandro Flores,25,Barranquilla,Electronic,,144,,2.8,Tablet,,TÉCNICO,,12:00
+USR00438,Laura Herrera,62,Barranquilla,POP,Mozart,113,Spotify,todo el dia,Smart TV,No binario,,9/6/2019,929
+USR00439,,75,,,,113,Tidal,2.4,Smart TV,M,Tecnólogo,2022.1.5,23.01
+USR00440,Valentina Sánchez,39,Cali,Electronic,,40,Spotify,,Alexa,,Tecnólogo,23/5/2021,8:51 PM
+USR00441,Diego Ramos,32,Manizales,Jazz,Ba dBunny,180,,todo el dia,Computador,femenino,Técnico,7102024,2:43pm
+,Paula Rodríguez,69,CALI,Electronic,Shakira,5,Spotify,3h,Alexa,F,Secundaria,,22.47
+USR00443,Carlos Jiménez,,CALI,Jazz,Mozart,76,youtube,3.1,Audífonos BT,femenino,Universitario,9 Sep 2020,11:23pm
+,Camila Flores,59,Medellín,Clásica,,81,Apple Music,5.4,,femenino,Universitario,2022/1/6,11:28pm
+USR00445,,62,,regueton,,137,SoundCloud,6.7,Audífonos BT,No binario,Secundaria,28 oct 2023,20:39
+USR00446,Felipe Ortiz,57,,POP,Shakira,17,Tidal,5.5,Tablet,m,universitario,1-14-2019,8.23
+USR00447,Sofía González,N/A,medellin,Metal,Feid,62,,,Smart TV,Masculino,Posgrado,9 jul 2019,6h07
+USR00448,Sebastián González,Veintiocho,Bogotá,,Metallica,,Spotify,7.2,,,universitario,2022.8.16,
+USR00449,Diego Pérez,58,Manizales,regueton,BadB unny,94,,5.0,,No binario,Secundaria,2019.11.4,1325
+USR00450,,Veintiocho,Cali,regueton,,128,,,Smart TV,femenino,Tecnólogo,1742023,
+USR00451,Diego Díaz,N/A,Medellín,Salsa,Carlos Vives,169,Amazon Music,6.7,Tablet,,Secundaria,7/20/2021,2309
+USR00452,Paula García,37,Barranquilla,Pop,Bad Bunny,,Spotify,N/A,Tablet,femenino,TÉCNICO,,11:30 AM
+USR00453,Isabella Gutiérrez,30,CALI,,Metallica,N/D,,3.0,,femenino,Primaria,4-9-21,7:34 PM
+USR00454,,25,,reggaeton,Grupo Niche,100 aprox,youtube,5.4,Audífonos BT,femenino,Tecnólogo,4-9-24,6:47am
+USR00455,Juan Vargas,12,,,Carlos Vives,78,YouTube,5.0,Celular,femenino,,2022.4.7,1730
+,Isabella Gutiérrez,25 años,CALI,SALSA,Grupo Niche,,,5.9,Alexa,femenino,Posgrado,1-19-2023,1504
+USR00457,David López,74,,Hip-Hop,Bad Bunny,173,,2.5,COMPUTADOR,femenino,Técnico,28-9-20,20:09
+USR00458,,47,Cali,regueton,Bad Bnuny,,Deezer,3h,Alexa,F,Posgrado,2020/14/8,13:40:00
+,Camila Pérez,35,Medellín,SALSA,Bad Bunny,32,youtube,7.9,,F,Posgrado,5/14/2022,
+USR00460,Carlos Torres,,Cali,Clásica,,N/D,Tidal,6.4,Alexa,F,Técnico,10-6-2023,16.44
+USR00461,Felipe Sánchez,20,CALI,Rock,Metallica,124,Spotify,6.8,Celular,,universitario,3-7-22,8h03
+USR00462,Laura Pérez,,Manizales,regueton,Carlos Vives,122,YouTube,7.1,Smart TV,Masculino,Secundaria,8-7-21,8h29
+USR00463,Carlos Ortiz,,Cali,regueton,,16,Deezer,2.7,Computador,F,Secundaria,5/2/2022,10:09:00
+USR00464,,74,CALI,Reggaeton,,,,1.7,,m,,,1817
+USR00465,Alejandro Pérez,33,Cali,Metal,Shakira,,Apple Music,5.9,Tablet,F,universitario,24-6-20,21h18
+USR00466,Luis Pérez,56,,Rock,Feid,42,Tidal,7.2,COMPUTADOR,Masculino,,2752021,23h47
+USR00467,Jorge Ramírez,Veintiocho,Cali,,J Balvin,180,SPOTIFY,6.3,Tablet,No binario,,22/8/2020,18:46
+USR00468,Isabella Vargas,55,,regueton,Carlos Vives,121,Tidal,1.3,Celular,,Técnico,21-1-24,
+USR00469,,,Cali,regueton,Bad Bunny,140,YouTube,1.3,Tablet,,Secundaria,3/13/2024,5:59pm
+USR00470,Sofía Ortiz,23,Barranquilla,Reggaeton,Bad Bunny,40,,7.5,Audífonos BT,m,Tecnólogo,2021/28/3,3:31 PM
+USR00471,Jorge Pérez,,,Pop,Grupo Niche,,SoundCloud,,,femenino,,1/23/2021,1214
+USR00472,Camila González,27,Barranquilla,,,192,Amazon Music,2.9,Alexa,No binario,,592024,
+USR00473,Natalia Rodríguez,Veintiocho,Cali,,J Balvin,165,Amazon Music,4.9,Smart TV,,,,
+USR00474,Diego Rodríguez,,Barranquilla,Electronic,Bad Bunyn,154,Amazon Music,4.4,Smart TV,F,TÉCNICO,17 jun 2020,23:32
+USR00475,Paula Jiménez,15,Bogotá,Salsa,,23,,3.0,,,Secundaria,,8:49pm
+,Camila Muñoz,53,CALI,Rock,Shakira,31,Spotify,4.1,Tablet,No binario,,28/12/2021,
+USR00477,Isabella García,26,,Jazz,Bad Bunny,57,YouTube,5.3,,M,Posgrado,2020.7.1,21:39:00
+USR00478,David Torres,19,medellin,,J Balvin,73,Deezer,1.3,Computador,No binario,Posgrado,2019/25/4,601
+,,37,CALI,reggaeton,,108,Tidal,2.4,,m,Secundaria,26/2/2022,10:40
+USR00480,Valentina Rodríguez,,,Rock,Maluma,84,Tidal,,,femenino,Primaria,3/3/2024,10:44 AM
+USR00481,Juan Morales,33,,Salsa,Bad Bnuny,5,SPOTIFY,4.3,celular,,,2021/26/7,
+USR00482,Ana Ramírez,65,Manizales,Pop,Carlos Vives,74,Spotify,2.8,Celular,No binario,,5-4-2023,
+USR00483,Felipe Rodríguez,23,CALI,regueton,Grupo Niche,,,N/A,,,Primaria,,12h54
+USR00484,Andrés Martínez,,Manizales,,Ba dBunny,186,Spotify,todo el dia,Alexa,M,Primaria,3/14/2023,6:23 AM
+USR00485,Ana Morales,25,Manizales,Salsa,Shakira,148,YouTube,0.9,Alexa,,Técnico,2021.6.6,23:50:00
+USR00486,Sebastián Díaz,57,Barranquilla,regueton,,157,Amazon Music,0.9,Smart TV,F,Secundaria,20/8/2021,17:39
+,Ana Gutiérrez,43,Manizales,Pop,Bad Bunny,175,YouTube,6.8,Parlante,,Universitario,2022/20/4,
+USR00488,Ana Martínez,25 años,Cali,Hip-Hop,Maluma,21,,3.4,Computador,No binario,Universitario,26 ene 2022,6:32pm
+,Laura Vargas,,,reggaeton,Mozart,,,0.9,Smart TV,femenino,Universitario,16-10-22,10:25:00
+,Sofía Jiménez,47,Medellín,Vallenato,Ba dBunny,190,YouTube,,Alexa,m,,,23:52
+USR00491,Isabella Sánchez,14,medellin,Vallenato,Maluma,,Tidal,1.6,Celular,m,Técnico,8-1-2022,10h03
+USR00492,Isabella Rodríguez,25 años,Barranquilla,Metal,Bad Bunny,187,Tidal,3.7,Alexa,m,Posgrado,2024/2/9,701
+USR00493,David Herrera,40,,Jazz,,181,SoundCloud,7.2,Alexa,femenino,Primaria,17-5-22,21.28
+USR00494,Valentina Morales,50,Bogotá,Pop,Ba dBunny,152,Apple Music,,Audífonos BT,Masculino,,3-5-2022,
+USR00495,Ana Martínez,Veintiocho,Medellín,POP,,128,Amazon Music,1.1,COMPUTADOR,,TÉCNICO,4-6-19,
+USR00496,Carlos Pérez,69,Barranquilla,Salsa,,136,Tidal,5.1,,Masculino,TÉCNICO,4/2/2023,8.26
+USR00497,Isabella Ramos,25,Cali,Vallenato,BadB unny,,YouTube,0.7,,,Posgrado,2/1/2022,12:01:00
+USR00498,Laura Muñoz,64,,Electronic,Bad Bunny,164,youtube,4.0,celular,Masculino,Posgrado,2024/23/1,
+,Mariana Jiménez,17,,Salsa,Bad Bunny,85,,5.6,,Masculino,universitario,2020/3/8,
+USR00500,María García,71,Bogotá,Pop,,101,SPOTIFY,,COMPUTADOR,m,,,4:34pm

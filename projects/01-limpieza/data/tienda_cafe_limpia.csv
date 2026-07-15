@@ -1,0 +1,501 @@
+id_pedido,fecha,hora,cliente,producto,cantidad,precio_unitario,metodo_pago,ciudad,calificacion,notas
+,,,Cralos Morales,Latte,1.0,7800.0,,,,
+PED-0002,,,oSfía Díaz,Té verde,5.0,5100.0,Efectivo,Medellín,,doble shot
+PED-0003,,18:17:00,uJan Vargas,Latte,5.0,11700.0,transferencia,Pereira,3,muy rico!
+PED-0004,,,aCrlos Castro,Machiato,4.0,9900.0,transferencia,,5,sin azúcar
+PED-0005,,,Valnetina Martínez,,5.0,,,Pereira,5,para llevar
+PED-0006,,,Dvaid Ramos,,4.0,6700.0,Tarjeta,,2,
+PED-0007,,19:29:00,aMría Díaz,,3.0,7400.0,DaviPlata,Cartagena,5,
+PED-0008,,12:55:00,Carols Torres,Espresso,3.0,,,Medellín,,muy rico!
+PED-0009,,13:25:00,,Cappuccino,5.0,5300.0,Efectivo,,3,muy rico!
+PED-0010,,17:56:00,Paual Castro,Té verde,2.0,6300.0,Efectivo,Pereira,,caliente porfavor
+PED-0011,,07:05:00,Calros Rodríguez,Latte,2.0,16500.0,tarjeta débito,,4,
+PED-0012,,07:39:00,,Espresso,,9500.0,tarjeta débito,,1,sin azúcar
+PED-0013,,02:22:00,,Latte,4.0,16100.0,,,4,
+PED-0014,,,Maíra Ortiz,Té verde,4.0,11400.0,transferencia,,,
+PED-0015,,11:42:00,Mairana López,Chocolate caliente,2.0,8600.0,DaviPlata,,4,caliente porfavor
+PED-0016,,13:11:00,nAa González,Americano,4.0,14900.0,Efectivo,Cartagena,5,sin lactosa
+PED-0017,,,sIabella Rodríguez,Frappé,4.0,11900.0,,Barranquilla,4,
+,,,,Cold brew,,15700.0,tarjeta débito,Cartagena,1,caliente porfavor
+PED-0019,,18:17:00,Lius García,Machiato,,9800.0,Tarjeta,Medellín,3,
+PED-0020,,11:19:00,Davdi Díaz,Americano,2.0,12900.0,,Medellín,1,
+PED-0021,,,Feliep Castro,Machiato,1.0,,transferencia,,,
+PED-0022,,14:35:00,Sofaí Vargas,Latte,3.0,7800.0,,,4,
+PED-0023,,12:20:00,Puala Sánchez,Americano,4.0,8600.0,transferencia,,5,muy rico!
+PED-0024,,,aLura López,Té verde,2.0,14100.0,Nequi,,5,para llevar
+PED-0025,,,Anrdés López,,,14800.0,Efectivo,,2,sin lactosa
+PED-0026,,,Valetnina Muñoz,Cappuccino,2.0,8300.0,transferencia,Cartagena,5,caliente porfavor
+,,,Paual Vargas,Machiato,1.0,14400.0,Efectivo,Cali,5,caliente porfavor
+PED-0028,,,eSbastián Sánchez,Cold brew,3.0,9900.0,,,5,
+PED-0029,,,Andrsé Ortiz,,3.0,,tarjeta débito,Pereira,1,extra caliente
+PED-0030,,13:36:00,Aan Vargas,Cappuccino,3.0,15800.0,Nequi,Medellín,2,
+PED-0031,,18:41:00,Isaeblla Herrera,Machiato,3.0,16300.0,Efectivo,,,para llevar
+,,,,Mocha,2.0,,DaviPlata,,1,doble shot
+PED-0033,,,aLura Ramírez,Cold brew,3.0,13500.0,,Barranquilla,3,
+PED-0034,,07:19:00,oJrge Flores,Machiato,1.0,14600.0,Efectivo,Medellín,2,
+PED-0035,,23:23:00,Isabella González,Mocha,4.0,8500.0,,,4,para llevar
+,,,Isaeblla Ramos,Machiato,5.0,12700.0,Tarjeta,,4,doble shot
+PED-0037,,09:54:00,aMriana Martínez,Mocha,1.0,7400.0,,Pereira,,
+PED-0038,,,,Americano,2.0,6500.0,Tarjeta,,5,muy rico!
+PED-0039,,02:39:00,Digeo Muñoz,Cappuccino,5.0,,Tarjeta,Pereira,4,extra caliente
+PED-0040,,,oJrge Ramos,Americano,4.0,7600.0,tarjeta débito,Barranquilla,4,
+PED-0041,,23:49:00,sIabella Gutiérrez,Cappuccino,3.0,9200.0,Nequi,Medellín,3,extra caliente
+PED-0042,,08:56:00,nAa Torres,Té verde,1.0,6400.0,tarjeta débito,,,muy rico!
+PED-0043,,06:31:00,Isabella Ramírez,Chocolate caliente,1.0,13700.0,Tarjeta,Medellín,1,
+PED-0044,,09:15:00,Digeo Herrera,,1.0,12300.0,Tarjeta,,4,
+PED-0045,,,Juna Herrera,Té verde,3.0,15600.0,transferencia,BOGOTA,5,para llevar
+PED-0046,,,Aan González,Mocha,4.0,5300.0,Tarjeta,,5,muy rico!
+,,23:43:00,,Cold brew,4.0,12700.0,transferencia,Barranquilla,4,
+,,,Vlaentina Ortiz,Latte,3.0,13200.0,Efectivo,,,sin lactosa
+PED-0049,,,Luara Jiménez,Chocolate caliente,2.0,15700.0,transferencia,Pereira,2,sin azúcar
+PED-0050,,22:09:00,Sofaí Jiménez,Espresso,2.0,6400.0,Efectivo,BOGOTA,3,extra caliente
+PED-0051,,,,Cappuccino,3.0,15800.0,Efectivo,,,
+PED-0052,,,lAejandro Díaz,Latte,4.0,4700.0,transferencia,BOGOTA,5,sin azúcar
+PED-0053,,10:04:00,Valnetina Martínez,Té verde,2.0,13000.0,transferencia,Pereira,3,
+PED-0054,,21:23:00,aNtalia Morales,Cappuccino,2.0,,,BOGOTA,3,
+PED-0055,,,,Mocha,4.0,10300.0,tarjeta débito,Medellín,1,
+,,09:16:00,Mairana Vargas,,3.0,14800.0,Nequi,Cartagena,4,doble shot
+PED-0057,,,Iasbella Gutiérrez,Té verde,3.0,11900.0,,Barranquilla,5,para llevar
+PED-0058,,,Soífa Ortiz,Latte,2.0,13200.0,transferencia,Medellín,3,muy rico!
+PED-0059,,,Carols Castro,Latte,5.0,12500.0,tarjeta débito,BOGOTA,,caliente porfavor
+PED-0060,,,Aan Díaz,Espresso,4.0,10800.0,Nequi,,4,
+PED-0061,,21:38:00,sIabella González,Americano,2.0,11400.0,tarjeta débito,,,sin lactosa
+,,,,Frappé,2.0,8400.0,,Pereira,5,caliente porfavor
+PED-0063,,,Carlso Vargas,Machiato,3.0,17900.0,DaviPlata,,4,muy rico!
+PED-0064,,21:55:00,Jorge Ortiz,Frappé,5.0,9600.0,Efectivo,Cartagena,,extra caliente
+PED-0065,,21:20:00,Feilpe González,Té verde,5.0,14900.0,tarjeta débito,Cali,3,
+PED-0066,,10:14:00,,,1.0,10500.0,Nequi,Cartagena,2,doble shot
+PED-0067,,11:59:00,nAa Flores,Americano,3.0,13200.0,transferencia,Pereira,,sin azúcar
+PED-0068,,18:52:00,María Pérez,,5.0,,tarjeta débito,Medellín,3,
+PED-0069,,,Luara Muñoz,Mocha,5.0,4700.0,,,1,
+PED-0070,,08:07:00,Lusi Muñoz,Machiato,1.0,11600.0,,Pereira,,muy rico!
+,,10:49:00,Naatlia Díaz,Mocha,1.0,15500.0,Tarjeta,Pereira,1,extra caliente
+PED-0072,,,aMría Morales,Té verde,1.0,11800.0,DaviPlata,BOGOTA,2,sin azúcar
+PED-0073,,,Soífa Rodríguez,Cold brew,5.0,16300.0,,,3,
+PED-0074,,13:19:00,Aan Morales,Espresso,4.0,5100.0,DaviPlata,BOGOTA,4,
+PED-0075,,16:19:00,Maraí Ramírez,Té verde,1.0,,DaviPlata,Medellín,5,extra caliente
+PED-0076,,,Naatlia Rodríguez,Frappé,3.0,9400.0,DaviPlata,BOGOTA,4,
+PED-0077,,19:08:00,Jorge García,Cold brew,4.0,14400.0,,Pereira,,muy rico!
+,,,Sebsatián Ramírez,,5.0,11700.0,,Barranquilla,4,
+PED-0079,,,,Cold brew,1.0,,tarjeta débito,Medellín,3,extra caliente
+PED-0080,,16:38:00,uJan Torres,Americano,5.0,9800.0,tarjeta débito,,2,extra caliente
+PED-0081,,,Isablela Ortiz,Latte,5.0,,Efectivo,Medellín,3,para llevar
+PED-0082,,,Felipe Ramírez,Chocolate caliente,1.0,12100.0,Nequi,Barranquilla,,sin lactosa
+PED-0083,,03:47:00,Soífa Díaz,Machiato,4.0,8900.0,DaviPlata,Pereira,5,
+PED-0084,,01:16:00,iDego Muñoz,Frappé,1.0,10700.0,tarjeta débito,BOGOTA,3,extra caliente
+PED-0085,,,Aleajndro Muñoz,Frappé,5.0,5600.0,Nequi,Medellín,3,
+PED-0086,,20:20:00,aMría Herrera,Mocha,4.0,5700.0,DaviPlata,Pereira,3,
+PED-0087,,08:36:00,Caimla Sánchez,Frappé,4.0,7600.0,Efectivo,,3,caliente porfavor
+PED-0088,,10:32:00,Dieog Pérez,Latte,3.0,10700.0,Nequi,Cartagena,3,
+PED-0089,,,,Espresso,3.0,12900.0,,BOGOTA,4,sin lactosa
+PED-0090,,,Mraía Sánchez,Mocha,5.0,9500.0,tarjeta débito,Cali,3,
+PED-0091,,02:55:00,Sfoía Herrera,Americano,1.0,11700.0,,Medellín,4,doble shot
+PED-0092,,08:40:00,Isaeblla Sánchez,Chocolate caliente,,15200.0,Efectivo,BOGOTA,3,
+PED-0093,,07:12:00,,,5.0,15100.0,,Medellín,,
+,,,aMría Herrera,Americano,4.0,,Nequi,,2,muy rico!
+PED-0095,,18:22:00,eFlipe Ramírez,Machiato,1.0,6700.0,Efectivo,Medellín,5,caliente porfavor
+PED-0096,,10:24:00,Isabella Pérez,Machiato,5.0,9800.0,Efectivo,Medellín,2,extra caliente
+PED-0097,,,Jaun Ramos,Cappuccino,1.0,9900.0,Tarjeta,Barranquilla,4,
+PED-0098,,22:33:00,Cmaila Torres,Americano,1.0,,Efectivo,Medellín,1,
+,,22:00:00,Ana Vargas,Mocha,5.0,11200.0,Efectivo,Barranquilla,,para llevar
+PED-0100,,15:20:00,Andrés Flores,Americano,4.0,8800.0,,,1,sin azúcar
+PED-0101,,13:26:00,,Frappé,2.0,,tarjeta débito,BOGOTA,1,sin azúcar
+PED-0102,,14:14:00,,Latte,,6300.0,Tarjeta,,,para llevar
+PED-0103,,,Sebsatián González,Cold brew,3.0,5700.0,,,,
+PED-0104,,,Dieog García,Chocolate caliente,3.0,,Nequi,Cartagena,,extra caliente
+PED-0105,,23:50:00,Camlia Castro,Cappuccino,5.0,7800.0,Efectivo,,5,extra caliente
+PED-0106,,,Digeo Pérez,Machiato,,15400.0,Efectivo,Medellín,4,caliente porfavor
+,,,,Té verde,5.0,12100.0,Tarjeta,BOGOTA,4,para llevar
+PED-0108,,,aPula Ramos,Té verde,4.0,9000.0,Efectivo,BOGOTA,4,
+PED-0109,,,aMría Martínez,Machiato,2.0,5900.0,tarjeta débito,Barranquilla,1,
+,,11:56:00,Luis Herrera,,1.0,15100.0,Nequi,Barranquilla,2,extra caliente
+,,,,Latte,3.0,7100.0,Tarjeta,BOGOTA,5,doble shot
+PED-0112,,14:36:00,aMría Jiménez,Chocolate caliente,4.0,,DaviPlata,Barranquilla,2,sin lactosa
+PED-0113,,,,Chocolate caliente,5.0,17100.0,Nequi,Medellín,,sin azúcar
+PED-0114,,09:59:00,Valenitna Morales,Latte,1.0,9900.0,,Medellín,3,sin azúcar
+PED-0115,,09:54:00,Sfoía Flores,Machiato,5.0,9900.0,transferencia,,,
+,,,,Americano,4.0,15600.0,transferencia,Cartagena,3,muy rico!
+PED-0117,,,Adnrés Ramírez,Latte,1.0,11100.0,Efectivo,Medellín,4,
+PED-0118,,,Alejadnro Castro,Espresso,2.0,4600.0,Tarjeta,BOGOTA,3,doble shot
+PED-0119,,06:41:00,Natlaia Díaz,Té verde,3.0,14100.0,DaviPlata,,5,
+PED-0120,,,Jaun Torres,,3.0,15900.0,Efectivo,,2,
+PED-0121,,11:49:00,,Machiato,1.0,,Nequi,Cali,5,sin azúcar
+PED-0122,,06:40:00,,Latte,2.0,13100.0,Tarjeta,Medellín,,muy rico!
+PED-0123,,,Maíra Martínez,Cold brew,5.0,9100.0,Efectivo,Medellín,3,
+PED-0124,,,,Cappuccino,1.0,10100.0,DaviPlata,Pereira,4,
+,,,Fleipe Muñoz,Té verde,4.0,5000.0,Tarjeta,Medellín,3,
+PED-0126,,16:11:00,Felpie Vargas,Té verde,3.0,6100.0,Tarjeta,Medellín,1,para llevar
+PED-0127,,09:56:00,Juan García,Espresso,1.0,12500.0,DaviPlata,BOGOTA,2,
+PED-0128,,11:04:00,eFlipe Ortiz,Machiato,1.0,14300.0,,Cartagena,4,muy rico!
+PED-0129,,11:13:00,aCmila Ramírez,Cold brew,1.0,,,BOGOTA,,
+,,12:12:00,,Latte,1.0,7500.0,Tarjeta,Cartagena,3,
+PED-0131,,10:06:00,Juna Díaz,Machiato,5.0,11200.0,DaviPlata,BOGOTA,3,
+PED-0132,,10:45:00,Isabella Herrera,Cold brew,2.0,12600.0,tarjeta débito,Pereira,5,muy rico!
+PED-0133,,,Isabelal Ramírez,Chocolate caliente,1.0,4800.0,transferencia,Medellín,2,para llevar
+PED-0134,,,Anrdés Muñoz,Chocolate caliente,4.0,17700.0,Nequi,BOGOTA,1,
+PED-0135,,23:22:00,,Chocolate caliente,3.0,6300.0,,,4,
+PED-0136,,16:24:00,,Té verde,3.0,7400.0,,Medellín,5,
+PED-0137,,19:41:00,oJrge Muñoz,,3.0,17300.0,transferencia,,5,extra caliente
+PED-0138,,09:18:00,Valentian Díaz,Mocha,4.0,13000.0,DaviPlata,Barranquilla,5,
+PED-0139,,,Cmaila Morales,Frappé,3.0,6400.0,Nequi,Medellín,3,sin azúcar
+,,05:08:00,aMriana Sánchez,Espresso,5.0,16000.0,transferencia,Cali,4,extra caliente
+PED-0141,,21:35:00,Fleipe Castro,Té verde,3.0,6800.0,Tarjeta,Pereira,4,
+PED-0142,,22:32:00,Sfoía Ortiz,Machiato,5.0,12500.0,Nequi,Cartagena,5,muy rico!
+PED-0143,,22:40:00,Dvaid Díaz,Cappuccino,2.0,7600.0,Tarjeta,Barranquilla,5,
+PED-0144,,,Sofaí Herrera,Americano,5.0,15500.0,DaviPlata,,,para llevar
+PED-0145,,,Luara Ramírez,Cappuccino,2.0,6700.0,Nequi,Pereira,,para llevar
+PED-0146,,07:56:00,Lius Rodríguez,,4.0,5400.0,tarjeta débito,BOGOTA,5,muy rico!
+PED-0147,,,,Frappé,4.0,15300.0,Efectivo,BOGOTA,5,
+PED-0148,,,oJrge Ramírez,Machiato,3.0,11700.0,DaviPlata,BOGOTA,4,sin lactosa
+,,06:39:00,aMriana Pérez,Machiato,1.0,,transferencia,,5,caliente porfavor
+PED-0150,,08:58:00,Isablela Jiménez,Americano,5.0,5000.0,DaviPlata,Barranquilla,,doble shot
+PED-0151,,,Sebastiná Ramos,Mocha,2.0,,tarjeta débito,,5,doble shot
+PED-0152,,,Andérs Sánchez,Americano,3.0,9300.0,DaviPlata,,3,extra caliente
+PED-0153,,,Felpie Ramírez,Té verde,2.0,,tarjeta débito,,4,muy rico!
+PED-0154,,,Mairana Jiménez,Té verde,4.0,15000.0,Efectivo,Barranquilla,,
+PED-0155,,11:26:00,Alejadnro Vargas,Espresso,5.0,12300.0,,,4,muy rico!
+PED-0156,,23:11:00,Alejandor Muñoz,Mocha,4.0,5800.0,Nequi,BOGOTA,4,doble shot
+PED-0157,,22:28:00,Jroge Torres,,5.0,,Nequi,,3,doble shot
+PED-0158,,,aCrlos Jiménez,Cold brew,,14900.0,transferencia,Cali,1,
+PED-0159,,,Jorge Jiménez,Frappé,2.0,10700.0,,Barranquilla,4,muy rico!
+PED-0160,,13:33:00,Feilpe Castro,Machiato,2.0,11900.0,Nequi,BOGOTA,4,para llevar
+,,,Naatlia Vargas,Machiato,4.0,12900.0,,,5,sin azúcar
+PED-0162,,09:33:00,Valenitna Pérez,Chocolate caliente,1.0,7000.0,,,3,extra caliente
+,,,Lusi Gutiérrez,Cappuccino,2.0,7700.0,,Cali,4,sin lactosa
+,,07:31:00,Luara Ramos,Latte,2.0,8800.0,transferencia,,3,
+PED-0165,,,Luara Gutiérrez,Frappé,,6600.0,Tarjeta,,4,muy rico!
+PED-0166,,,Lius Martínez,Espresso,2.0,7200.0,Efectivo,Medellín,,sin lactosa
+PED-0167,,,Camlia Morales,Mocha,,5500.0,tarjeta débito,Cali,,
+PED-0168,,11:59:00,Sebastáin García,Machiato,4.0,16700.0,Nequi,,3,sin lactosa
+PED-0169,,,Feilpe López,Americano,2.0,4800.0,Tarjeta,Cartagena,3,muy rico!
+PED-0170,,,Dvaid Herrera,,1.0,8600.0,tarjeta débito,,1,
+PED-0171,,,Andrsé Gutiérrez,Latte,2.0,15100.0,transferencia,BOGOTA,4,sin azúcar
+PED-0172,,01:12:00,uLis Martínez,Machiato,,10100.0,,BOGOTA,4,sin azúcar
+PED-0173,,,Mairana Martínez,,1.0,14500.0,transferencia,BOGOTA,3,caliente porfavor
+PED-0174,,,,Cappuccino,3.0,13300.0,transferencia,Pereira,1,
+PED-0175,,,Valenitna Muñoz,Cappuccino,3.0,16500.0,DaviPlata,Medellín,,
+PED-0176,,10:46:00,Natlaia Flores,Frappé,2.0,16800.0,transferencia,,5,
+PED-0177,,17:11:00,,,1.0,12800.0,transferencia,,2,
+PED-0178,,06:39:00,nAa Muñoz,Americano,,17000.0,DaviPlata,Barranquilla,4,
+PED-0179,,10:29:00,Alejandro González,Cappuccino,5.0,14800.0,tarjeta débito,,3,doble shot
+PED-0180,,18:46:00,Paual Castro,Cold brew,5.0,16600.0,Nequi,Cali,4,para llevar
+,,,Sfoía Ramos,Cappuccino,4.0,14400.0,Efectivo,Pereira,,para llevar
+PED-0182,,03:39:00,Iasbella Muñoz,,,6500.0,transferencia,Barranquilla,5,caliente porfavor
+PED-0183,,,Daivd Rodríguez,Chocolate caliente,,10900.0,,Cali,3,muy rico!
+PED-0184,,12:00:00,Lius Flores,,3.0,,Efectivo,,1,
+PED-0185,,,Daivd Castro,Cappuccino,2.0,15800.0,,Cali,4,para llevar
+PED-0186,,,Valnetina Ortiz,Cappuccino,3.0,13000.0,DaviPlata,Cartagena,4,extra caliente
+,,08:24:00,aVlentina Gutiérrez,Cold brew,5.0,9100.0,Tarjeta,,3,para llevar
+PED-0188,,,,Mocha,2.0,7100.0,,Medellín,4,doble shot
+PED-0189,,,Sbeastián Muñoz,Cappuccino,1.0,5700.0,,,5,
+,,10:32:00,Maíra Castro,Machiato,3.0,9800.0,tarjeta débito,,3,
+PED-0191,,,Maraí Pérez,Frappé,2.0,9700.0,tarjeta débito,,5,sin lactosa
+PED-0192,,15:58:00,Lusi García,Espresso,5.0,,,Pereira,5,doble shot
+PED-0193,,,Camlia Rodríguez,Cappuccino,5.0,9300.0,,Medellín,2,caliente porfavor
+PED-0194,,13:11:00,Soífa Morales,,4.0,6300.0,Efectivo,,4,caliente porfavor
+PED-0195,,,Juan Castro,Cold brew,1.0,14400.0,Efectivo,Medellín,3,extra caliente
+PED-0196,,,Fleipe Gutiérrez,,5.0,14300.0,Tarjeta,,3,
+PED-0197,,13:42:00,Daivd Martínez,,3.0,8000.0,Nequi,Cartagena,5,
+PED-0198,,17:54:00,Feilpe Torres,Frappé,2.0,14000.0,tarjeta débito,,,
+,,,nAa Gutiérrez,,2.0,13600.0,Nequi,,1,
+PED-0200,,14:49:00,Aan Torres,Espresso,1.0,7900.0,Nequi,BOGOTA,4,doble shot
+PED-0201,,,aDvid Ortiz,Chocolate caliente,2.0,5900.0,tarjeta débito,BOGOTA,,caliente porfavor
+PED-0202,,20:48:00,sIabella Díaz,Cappuccino,4.0,15500.0,Tarjeta,BOGOTA,3,doble shot
+PED-0203,,,Alejandor Castro,Cold brew,2.0,7100.0,Efectivo,Cartagena,4,muy rico!
+PED-0204,,13:04:00,Digeo González,Cold brew,,14000.0,DaviPlata,,5,extra caliente
+,,,Luis Ramos,Latte,1.0,14700.0,Nequi,Medellín,2,
+PED-0206,,,Isablela Ramírez,Chocolate caliente,2.0,,Efectivo,Cali,3,extra caliente
+PED-0207,,,aMría Ramírez,Cold brew,4.0,,DaviPlata,BOGOTA,3,doble shot
+PED-0208,,17:08:00,Fleipe Herrera,,3.0,7700.0,,Cartagena,,caliente porfavor
+PED-0209,,12:37:00,Natalai Ramírez,Espresso,3.0,8500.0,Nequi,Medellín,5,caliente porfavor
+PED-0210,,,Carols Flores,Cappuccino,1.0,14400.0,Efectivo,Cartagena,4,extra caliente
+PED-0211,,,,Chocolate caliente,2.0,9500.0,Nequi,BOGOTA,1,
+PED-0212,,,Maraí Castro,Americano,2.0,,Efectivo,BOGOTA,5,
+PED-0213,,,,Cold brew,,16600.0,Efectivo,BOGOTA,1,extra caliente
+PED-0214,,,Isbaella Pérez,Té verde,4.0,13900.0,Nequi,,3,doble shot
+PED-0215,,18:59:00,uJan García,Té verde,5.0,8000.0,transferencia,Medellín,1,
+PED-0216,,08:20:00,Aleajndro Torres,Machiato,2.0,14300.0,Tarjeta,Barranquilla,1,sin azúcar
+PED-0217,,,Natlaia Flores,Té verde,5.0,17200.0,tarjeta débito,,2,sin lactosa
+PED-0218,,,aLura Flores,Espresso,2.0,17800.0,,Medellín,5,
+PED-0219,,02:40:00,Maíra Ortiz,Mocha,4.0,13500.0,Efectivo,Cartagena,,doble shot
+PED-0220,,,,Espresso,3.0,8200.0,Efectivo,Medellín,,doble shot
+PED-0221,,08:07:00,Camila Flores,Cold brew,4.0,,Efectivo,,5,muy rico!
+PED-0222,,,,,2.0,13900.0,Efectivo,BOGOTA,2,extra caliente
+PED-0223,,08:06:00,Andrés Sánchez,,5.0,7000.0,Tarjeta,Pereira,4,
+PED-0224,,10:31:00,nAa Herrera,Cold brew,3.0,7000.0,transferencia,Cartagena,4,sin lactosa
+PED-0225,,,Mraía López,Chocolate caliente,3.0,10300.0,tarjeta débito,Barranquilla,4,
+PED-0226,,14:31:00,aCrlos Martínez,,5.0,14700.0,Nequi,BOGOTA,3,caliente porfavor
+PED-0227,,07:27:00,,Machiato,,5500.0,transferencia,Cali,4,
+PED-0228,,06:39:00,uJan García,Espresso,3.0,,Efectivo,BOGOTA,5,caliente porfavor
+PED-0229,,23:20:00,,,3.0,,Efectivo,Barranquilla,5,
+PED-0230,,,,,,13600.0,,BOGOTA,3,doble shot
+PED-0231,,12:42:00,Isabelal Gutiérrez,Mocha,5.0,10300.0,Efectivo,BOGOTA,3,muy rico!
+PED-0232,,,Valentian Vargas,Americano,2.0,14800.0,Efectivo,Medellín,1,sin lactosa
+,,08:25:00,aMría Ortiz,Mocha,3.0,6900.0,transferencia,BOGOTA,4,sin azúcar
+PED-0234,,,Juna Morales,Latte,3.0,12400.0,Nequi,BOGOTA,2,
+PED-0235,,18:00:00,Vlaentina Ramírez,Cappuccino,,14500.0,,Barranquilla,5,sin lactosa
+PED-0236,,,Ana Pérez,Mocha,1.0,17200.0,transferencia,,3,extra caliente
+PED-0237,,12:05:00,Deigo García,Americano,5.0,14900.0,DaviPlata,Cartagena,,
+PED-0238,,12:12:00,Lauar Rodríguez,Espresso,1.0,10300.0,transferencia,,4,
+PED-0239,,18:45:00,aMría Martínez,Chocolate caliente,,17700.0,,Pereira,2,
+PED-0240,,,Jorge Vargas,Mocha,4.0,6300.0,transferencia,Medellín,5,muy rico!
+PED-0241,,20:27:00,Aan Jiménez,Mocha,5.0,16600.0,Tarjeta,Cali,2,
+PED-0242,,08:15:00,Juan García,Latte,2.0,6900.0,Tarjeta,,3,caliente porfavor
+PED-0243,,,,Cold brew,4.0,17400.0,,,5,
+PED-0244,,21:28:00,aNtalia Morales,Chocolate caliente,3.0,17400.0,,Pereira,3,doble shot
+PED-0245,,,nAa Martínez,Cold brew,2.0,14100.0,,,,
+,,08:48:00,uJan Sánchez,Té verde,3.0,,Tarjeta,,4,para llevar
+PED-0247,,,Cralos García,Latte,1.0,10900.0,tarjeta débito,Pereira,5,doble shot
+PED-0248,,06:06:00,Natlaia Ramos,Mocha,4.0,,,Pereira,4,
+,,,Sebsatián Ortiz,Machiato,4.0,,,Medellín,,sin lactosa
+,,21:06:00,Valnetina Sánchez,Chocolate caliente,4.0,13600.0,transferencia,Cali,2,doble shot
+PED-0251,,,Sebastián Muñoz,Frappé,1.0,,Tarjeta,Medellín,,doble shot
+,,12:28:00,Laura Herrera,Espresso,1.0,16800.0,tarjeta débito,,3,
+PED-0253,,22:04:00,Paual Martínez,Frappé,4.0,6400.0,Efectivo,Pereira,4,muy rico!
+PED-0254,,,Sebasitán Díaz,,4.0,14000.0,Efectivo,Cali,3,sin azúcar
+PED-0255,,09:46:00,,Frappé,3.0,11400.0,transferencia,Medellín,,muy rico!
+PED-0256,,,,Americano,5.0,16600.0,,Barranquilla,5,doble shot
+PED-0257,,,Aeljandro Sánchez,Cold brew,2.0,9500.0,Efectivo,BOGOTA,5,doble shot
+PED-0258,,,aLura González,Chocolate caliente,1.0,,transferencia,BOGOTA,4,
+PED-0259,,16:34:00,eFlipe Pérez,Cold brew,5.0,6400.0,transferencia,BOGOTA,4,
+,,12:15:00,Sbeastián Castro,,2.0,11800.0,Efectivo,Cali,5,
+PED-0261,,16:11:00,Maíra Rodríguez,Frappé,3.0,5700.0,,,3,doble shot
+PED-0262,,09:15:00,,Machiato,2.0,14700.0,Nequi,Cali,5,muy rico!
+PED-0263,,18:22:00,Alejnadro Martínez,,4.0,,Tarjeta,BOGOTA,5,
+PED-0264,,04:01:00,Maraina García,Frappé,3.0,7300.0,,,3,
+PED-0265,,12:28:00,Felipe Jiménez,Latte,,15700.0,DaviPlata,Cartagena,3,sin lactosa
+PED-0266,,10:47:00,Soífa Sánchez,Cappuccino,3.0,14000.0,,Barranquilla,,doble shot
+PED-0267,,16:00:00,David García,Cappuccino,3.0,17900.0,DaviPlata,BOGOTA,4,muy rico!
+PED-0268,,20:48:00,uLis Martínez,Latte,1.0,15400.0,,,3,
+PED-0269,,20:50:00,Juna García,Machiato,,13600.0,,BOGOTA,3,caliente porfavor
+,,,Joreg Flores,Americano,5.0,11400.0,,Pereira,5,
+PED-0271,,,Aan Ramírez,Frappé,1.0,7100.0,,,1,
+PED-0272,,,Fleipe Herrera,Té verde,4.0,7000.0,Nequi,,1,
+PED-0273,,,Caimla Gutiérrez,Espresso,4.0,16400.0,DaviPlata,Medellín,3,
+PED-0274,,06:48:00,Alejandor Pérez,Té verde,,15200.0,,,5,
+PED-0275,,08:18:00,Aan Ortiz,Machiato,1.0,16600.0,tarjeta débito,Cartagena,5,sin lactosa
+PED-0276,,,Jaun Flores,Chocolate caliente,1.0,7700.0,DaviPlata,Cali,1,muy rico!
+,,,Sebastiná Herrera,Frappé,,8500.0,tarjeta débito,Cartagena,4,caliente porfavor
+PED-0278,,,Juna Gutiérrez,Cappuccino,3.0,16300.0,tarjeta débito,,4,
+PED-0279,,12:04:00,,Chocolate caliente,2.0,8900.0,tarjeta débito,BOGOTA,,extra caliente
+PED-0280,,,Soífa Ramos,Chocolate caliente,4.0,9800.0,Tarjeta,Cartagena,5,
+PED-0281,,07:15:00,Isbaella López,Mocha,4.0,15400.0,,Pereira,,
+,,,María Rodríguez,,1.0,11300.0,DaviPlata,Cartagena,2,
+PED-0283,,12:45:00,eSbastián Ortiz,Mocha,2.0,,tarjeta débito,,,
+PED-0284,,09:51:00,aPula Morales,Cappuccino,1.0,14900.0,DaviPlata,Pereira,2,sin azúcar
+,,,Mraía Torres,Chocolate caliente,1.0,5900.0,tarjeta débito,Cali,,
+PED-0286,,,Camila Vargas,,,4700.0,,BOGOTA,5,
+PED-0287,,,Lius López,Té verde,1.0,17700.0,,,5,
+PED-0288,,,Sebastáin Ortiz,Americano,2.0,10300.0,,Barranquilla,5,para llevar
+PED-0289,,12:00:00,Camlia Díaz,Latte,3.0,6600.0,Efectivo,Medellín,3,doble shot
+PED-0290,,17:44:00,,Machiato,1.0,5000.0,Efectivo,Cali,5,sin lactosa
+PED-0291,,12:56:00,Valentnia Ramos,Cold brew,2.0,12600.0,,,,extra caliente
+,,,Andérs Pérez,Té verde,2.0,7300.0,DaviPlata,Medellín,1,
+,,13:30:00,Aan García,,3.0,16300.0,DaviPlata,Medellín,1,
+PED-0294,,,,Frappé,3.0,10900.0,DaviPlata,,3,
+PED-0295,,09:25:00,Natalia Vargas,Cold brew,5.0,7000.0,transferencia,Cali,,
+PED-0296,,11:48:00,Cralos Herrera,Machiato,,,transferencia,BOGOTA,5,
+PED-0297,,13:16:00,Juna Ramos,,,13800.0,Efectivo,BOGOTA,,
+PED-0298,,06:34:00,Valnetina Vargas,Machiato,1.0,12500.0,Efectivo,Medellín,4,
+PED-0299,,07:59:00,Digeo Pérez,Latte,3.0,14000.0,,Barranquilla,4,
+,,20:44:00,Adnrés García,,3.0,17000.0,Nequi,Barranquilla,1,caliente porfavor
+PED-0301,,,iDego Muñoz,Espresso,,17700.0,,,,caliente porfavor
+PED-0302,,,Iasbella Díaz,,4.0,16800.0,Tarjeta,,5,extra caliente
+PED-0303,,,Natalai García,Latte,2.0,,,Cartagena,3,para llevar
+PED-0304,,02:08:00,Felipe Torres,,3.0,11400.0,transferencia,Cali,1,
+PED-0305,,,Isaeblla López,Latte,3.0,13900.0,transferencia,,5,sin lactosa
+PED-0306,,09:57:00,Deigo Jiménez,Latte,4.0,7500.0,tarjeta débito,Cali,1,doble shot
+PED-0307,,,Soífa López,Frappé,2.0,6400.0,Tarjeta,BOGOTA,4,
+PED-0308,,12:58:00,Isabella Jiménez,Latte,2.0,5600.0,Efectivo,Cali,1,sin lactosa
+PED-0309,,,Davdi Sánchez,Frappé,2.0,9500.0,Efectivo,,1,sin lactosa
+,,10:26:00,Felipe Ramírez,Cappuccino,,10700.0,,Cartagena,4,para llevar
+PED-0311,,,Luara Herrera,Cold brew,2.0,,tarjeta débito,BOGOTA,,
+PED-0312,,,eFlipe Torres,Espresso,2.0,4700.0,DaviPlata,BOGOTA,4,caliente porfavor
+PED-0313,,07:24:00,Sfoía Herrera,Frappé,5.0,17900.0,,BOGOTA,2,
+PED-0314,,15:07:00,Jogre Jiménez,Té verde,4.0,16600.0,Efectivo,Medellín,4,
+PED-0315,,,Jroge Morales,Chocolate caliente,1.0,6300.0,Efectivo,Cartagena,,
+PED-0316,,06:31:00,uLis Muñoz,Latte,,10200.0,tarjeta débito,,1,doble shot
+PED-0317,,,Fleipe Torres,Espresso,5.0,13900.0,DaviPlata,Medellín,4,muy rico!
+PED-0318,,,aDvid Díaz,Machiato,3.0,17300.0,DaviPlata,,5,caliente porfavor
+PED-0319,,,Paual Gutiérrez,Americano,5.0,16100.0,,,4,
+PED-0320,,06:50:00,Juna López,Frappé,2.0,15400.0,,Medellín,,sin azúcar
+PED-0321,,,iDego Vargas,,,13800.0,transferencia,,,
+PED-0322,,14:58:00,uLis Rodríguez,Té verde,1.0,12700.0,,Cartagena,5,sin lactosa
+PED-0323,,13:24:00,,Latte,5.0,14300.0,DaviPlata,,2,sin lactosa
+PED-0324,,01:03:00,Joreg García,,1.0,10900.0,Tarjeta,BOGOTA,4,para llevar
+PED-0325,,16:28:00,,Machiato,,,,Barranquilla,,sin lactosa
+,,07:14:00,Isablela López,Cold brew,5.0,8000.0,tarjeta débito,,2,para llevar
+,,12:40:00,,,4.0,,Tarjeta,Medellín,,doble shot
+PED-0328,,,,Mocha,4.0,8700.0,DaviPlata,Cali,2,extra caliente
+PED-0329,,,Cralos Flores,Espresso,5.0,14300.0,Tarjeta,Cartagena,3,para llevar
+PED-0330,,,Mariaan Rodríguez,Mocha,,12300.0,Efectivo,Barranquilla,3,
+PED-0331,,08:22:00,Sbeastián López,Mocha,1.0,13200.0,tarjeta débito,,,extra caliente
+PED-0332,,18:03:00,Luara Martínez,Latte,3.0,12700.0,,BOGOTA,1,sin azúcar
+PED-0333,,19:30:00,Naatlia Ramos,,3.0,10600.0,Nequi,,4,
+PED-0334,,,Isabelal Pérez,Cold brew,2.0,8800.0,DaviPlata,,3,sin azúcar
+PED-0335,,11:29:00,Paual Díaz,Té verde,,16600.0,transferencia,BOGOTA,4,
+PED-0336,,12:14:00,Andérs González,Latte,1.0,12800.0,,BOGOTA,5,extra caliente
+PED-0337,,10:52:00,Davdi Ramírez,Frappé,3.0,13400.0,tarjeta débito,,4,sin azúcar
+PED-0338,,,,,2.0,8800.0,,Cali,5,caliente porfavor
+PED-0339,,09:07:00,Jogre Torres,Té verde,2.0,16600.0,Efectivo,,2,sin lactosa
+PED-0340,,,,Cold brew,1.0,11100.0,Tarjeta,Medellín,3,
+PED-0341,,08:22:00,Lauar Ortiz,Frappé,5.0,7400.0,DaviPlata,Medellín,1,
+PED-0342,,,Lius Pérez,Latte,5.0,12400.0,tarjeta débito,Pereira,3,
+PED-0343,,,sIabella Díaz,Cappuccino,1.0,8900.0,transferencia,BOGOTA,1,
+PED-0344,,06:18:00,Carols Flores,,4.0,8800.0,Efectivo,,,doble shot
+PED-0345,,,María Herrera,,4.0,8200.0,Efectivo,Pereira,5,
+PED-0346,,,Natalai Muñoz,Cappuccino,3.0,,,Medellín,3,caliente porfavor
+,,20:52:00,Andrsé Ortiz,Cold brew,,14800.0,,,2,
+PED-0348,,09:47:00,Palua García,Espresso,2.0,9700.0,Tarjeta,BOGOTA,2,
+PED-0349,,22:38:00,nAa González,Americano,2.0,10300.0,,BOGOTA,,sin lactosa
+PED-0350,,,Valnetina Pérez,Machiato,4.0,5900.0,,Medellín,3,para llevar
+PED-0351,,,oJrge González,Chocolate caliente,,17700.0,Efectivo,Medellín,5,
+PED-0352,,,aLura Ramírez,Mocha,3.0,15700.0,DaviPlata,,5,caliente porfavor
+PED-0353,,,Juna González,Chocolate caliente,1.0,16300.0,Efectivo,Medellín,4,muy rico!
+PED-0354,,09:03:00,aCrlos Torres,Espresso,4.0,11600.0,Nequi,Medellín,2,
+PED-0355,,,Anrdés Rodríguez,Americano,4.0,5600.0,transferencia,Cartagena,3,sin lactosa
+PED-0356,,19:05:00,Soífa Rodríguez,Chocolate caliente,,11600.0,Efectivo,Barranquilla,3,sin lactosa
+,,,nAa Ortiz,Cappuccino,4.0,16300.0,DaviPlata,Cali,5,extra caliente
+PED-0358,,09:19:00,Soífa Gutiérrez,Mocha,1.0,12900.0,tarjeta débito,Medellín,5,extra caliente
+PED-0359,,19:09:00,iDego Ramos,Americano,2.0,13900.0,,BOGOTA,3,caliente porfavor
+,,10:17:00,iDego Vargas,Cold brew,4.0,17800.0,transferencia,BOGOTA,5,muy rico!
+PED-0361,,11:46:00,uLis Gutiérrez,,3.0,,Efectivo,Medellín,5,extra caliente
+PED-0362,,,Mraía Martínez,Té verde,1.0,9600.0,tarjeta débito,BOGOTA,2,
+PED-0363,,08:08:00,Luara Martínez,Frappé,4.0,7300.0,transferencia,Medellín,3,muy rico!
+PED-0364,,,Anrdés Martínez,Té verde,1.0,6600.0,Efectivo,BOGOTA,2,caliente porfavor
+PED-0365,,,Valnetina García,Machiato,5.0,,tarjeta débito,Medellín,4,caliente porfavor
+PED-0366,,,Natalia Castro,Cappuccino,4.0,13900.0,,Cartagena,,extra caliente
+,,01:28:00,Isbaella Ramírez,Cappuccino,3.0,13300.0,,Barranquilla,,extra caliente
+PED-0368,,20:07:00,Felipe Ramos,Machiato,4.0,7200.0,tarjeta débito,Barranquilla,2,muy rico!
+PED-0369,,16:46:00,nAa Castro,Cappuccino,2.0,7000.0,,,,
+PED-0370,,,aMriana González,Mocha,2.0,10800.0,Nequi,Medellín,5,
+PED-0371,,14:16:00,Puala Gutiérrez,Cold brew,1.0,11000.0,Nequi,Cartagena,5,extra caliente
+,,09:32:00,Camlia López,Cappuccino,5.0,5300.0,Efectivo,BOGOTA,,
+,,,iDego López,Chocolate caliente,3.0,17600.0,tarjeta débito,BOGOTA,5,para llevar
+PED-0374,,,Naatlia López,Frappé,1.0,13400.0,,Cartagena,2,doble shot
+PED-0375,,,,Americano,5.0,17800.0,,Cali,3,para llevar
+PED-0376,,,nAa Jiménez,Chocolate caliente,1.0,17900.0,tarjeta débito,Cartagena,4,
+PED-0377,,,Alejandro Ortiz,Espresso,5.0,,Efectivo,,5,
+PED-0378,,14:09:00,aPula Gutiérrez,Americano,4.0,12300.0,,Medellín,4,doble shot
+PED-0379,,,Lius Pérez,Mocha,5.0,10500.0,Tarjeta,BOGOTA,1,extra caliente
+PED-0380,,,Paual Flores,,,14000.0,,BOGOTA,,sin azúcar
+PED-0381,,09:50:00,Larua González,Machiato,2.0,5000.0,transferencia,Cartagena,5,
+PED-0382,,,Aan Torres,Chocolate caliente,1.0,17400.0,tarjeta débito,Medellín,4,
+PED-0383,,,Camial López,Americano,3.0,5100.0,DaviPlata,Pereira,5,extra caliente
+PED-0384,,,oSfía Torres,Americano,3.0,16800.0,tarjeta débito,Medellín,5,sin azúcar
+PED-0385,,,nAdrés Torres,Latte,1.0,14000.0,,Barranquilla,,
+PED-0386,,,Valenitna Rodríguez,,3.0,11700.0,Nequi,Cartagena,3,
+PED-0387,,19:55:00,Isabelal Vargas,Latte,2.0,15800.0,Efectivo,Cartagena,,
+PED-0388,,,,Latte,1.0,5500.0,transferencia,,,para llevar
+PED-0389,,,uLis Flores,,2.0,11600.0,,Medellín,3,doble shot
+PED-0390,,,nAdrés Ramos,Machiato,,13100.0,transferencia,Cali,1,doble shot
+,,21:55:00,nAa Ortiz,Machiato,4.0,14900.0,transferencia,BOGOTA,,
+PED-0392,,23:28:00,Maraí Jiménez,Chocolate caliente,4.0,14000.0,Efectivo,,3,caliente porfavor
+PED-0393,,,Feilpe Martínez,Americano,4.0,17100.0,,Cartagena,4,sin azúcar
+PED-0394,,07:20:00,Andrsé García,Cold brew,5.0,,Nequi,,2,para llevar
+PED-0395,,,Calros Torres,Té verde,,13500.0,Tarjeta,,,muy rico!
+PED-0396,,10:19:00,Fleipe Ramos,Latte,2.0,7000.0,DaviPlata,Medellín,2,
+PED-0397,,07:22:00,Anrdés Ortiz,Cold brew,,9300.0,DaviPlata,Cartagena,5,
+PED-0398,,,Caimla Pérez,,5.0,7000.0,,Barranquilla,3,caliente porfavor
+PED-0399,,18:37:00,Valnetina Ramos,Cold brew,2.0,9500.0,Efectivo,Medellín,,
+PED-0400,,23:54:00,aCmila Vargas,Espresso,3.0,,,Cartagena,5,extra caliente
+PED-0401,,,Carlso Gutiérrez,Latte,4.0,14800.0,Nequi,Medellín,3,sin lactosa
+PED-0402,,,Maraí García,Chocolate caliente,1.0,13300.0,,Barranquilla,3,
+PED-0403,,,David Torres,Cappuccino,3.0,,Efectivo,Medellín,4,
+PED-0404,,07:38:00,Diego Ramírez,Cold brew,4.0,16500.0,,Medellín,4,sin azúcar
+PED-0405,,08:21:00,Cralos Torres,,5.0,15600.0,tarjeta débito,,5,
+PED-0406,,07:38:00,eFlipe Morales,Mocha,5.0,16000.0,transferencia,,3,
+PED-0407,,,Seabstián Muñoz,Té verde,1.0,4700.0,Nequi,Medellín,4,caliente porfavor
+PED-0408,,,Isabella Vargas,Machiato,1.0,12100.0,tarjeta débito,,,doble shot
+PED-0409,,,Dieog Muñoz,Americano,2.0,12200.0,Nequi,Medellín,3,
+,,,,Té verde,4.0,,tarjeta débito,,4,sin lactosa
+,,20:15:00,Maíra Pérez,,4.0,16300.0,Efectivo,Barranquilla,2,
+PED-0412,,18:53:00,Diego Ortiz,,,10100.0,transferencia,,1,caliente porfavor
+PED-0413,,04:18:00,Feliep Torres,Latte,2.0,13400.0,,BOGOTA,3,extra caliente
+PED-0414,,13:01:00,aDvid Torres,Mocha,3.0,6600.0,tarjeta débito,Cali,4,para llevar
+PED-0415,,,Mraía Jiménez,Espresso,5.0,8700.0,Efectivo,Pereira,4,muy rico!
+PED-0416,,11:44:00,Seabstián Martínez,Americano,3.0,,DaviPlata,BOGOTA,1,muy rico!
+,,20:05:00,Andrsé Vargas,Espresso,5.0,7300.0,Tarjeta,Cartagena,4,muy rico!
+PED-0418,,,Valentian González,Americano,5.0,12800.0,Efectivo,Pereira,3,
+PED-0419,,,Mraiana Ramos,Espresso,,10300.0,tarjeta débito,Cali,4,muy rico!
+PED-0420,,05:53:00,,,3.0,17700.0,tarjeta débito,Cali,3,doble shot
+PED-0421,,,Juna Vargas,Mocha,1.0,7200.0,Efectivo,Barranquilla,,sin lactosa
+PED-0422,,,,Cold brew,2.0,12700.0,transferencia,Medellín,4,
+PED-0423,,12:43:00,Cralos González,Espresso,1.0,13900.0,Efectivo,Medellín,3,
+PED-0424,,,Lusi Muñoz,Frappé,,,tarjeta débito,Cartagena,3,
+,,,Juna Muñoz,Espresso,,13200.0,Efectivo,,4,sin lactosa
+,,,aCmila Rodríguez,Espresso,2.0,5900.0,,,1,muy rico!
+PED-0427,,,Lusi Jiménez,Cold brew,4.0,7300.0,,Barranquilla,1,muy rico!
+PED-0428,,,,Latte,3.0,,transferencia,Barranquilla,3,extra caliente
+,,,,,2.0,11500.0,tarjeta débito,Pereira,2,extra caliente
+PED-0430,,,Camial González,Latte,1.0,7500.0,DaviPlata,Pereira,3,sin lactosa
+PED-0431,,,Jogre Morales,Espresso,2.0,14500.0,Efectivo,Barranquilla,,
+PED-0432,,,Feliep Herrera,Americano,,13100.0,,Cartagena,3,caliente porfavor
+PED-0433,,17:19:00,Lusi Pérez,Té verde,5.0,15100.0,DaviPlata,,,
+PED-0434,,11:40:00,Joreg Sánchez,Americano,3.0,15000.0,transferencia,Pereira,1,
+PED-0435,,11:48:00,Deigo Morales,Cold brew,4.0,14200.0,Tarjeta,Medellín,,
+,,20:19:00,Seabstián López,Chocolate caliente,1.0,12400.0,transferencia,Medellín,5,
+,,09:53:00,Maíra Torres,Mocha,1.0,10200.0,transferencia,,4,
+PED-0438,,,Camial Gutiérrez,Cold brew,2.0,7500.0,Efectivo,Cartagena,3,caliente porfavor
+PED-0439,,06:46:00,Caimla Ramírez,Machiato,,9900.0,transferencia,Cali,4,sin azúcar
+PED-0440,,08:40:00,Paual Sánchez,Frappé,3.0,14700.0,,Cali,3,
+PED-0441,,,Camlia Rodríguez,Té verde,,12400.0,transferencia,BOGOTA,5,muy rico!
+PED-0442,,,Isablela Ramos,Americano,4.0,7800.0,tarjeta débito,Barranquilla,1,
+PED-0443,,22:45:00,Mraiana Jiménez,Té verde,3.0,9400.0,DaviPlata,,,para llevar
+PED-0444,,,Carlso Vargas,Cold brew,5.0,,tarjeta débito,Cartagena,1,muy rico!
+,,08:39:00,Adnrés Gutiérrez,Mocha,3.0,15300.0,Efectivo,Cartagena,5,caliente porfavor
+PED-0446,,14:31:00,Soífa López,Té verde,,9900.0,Efectivo,Medellín,4,
+PED-0447,,,Jogre Ramos,Cappuccino,,4500.0,Nequi,,4,sin azúcar
+PED-0448,,04:29:00,,Cappuccino,5.0,15200.0,,,,para llevar
+PED-0449,,,Valentnia Díaz,,4.0,16800.0,Tarjeta,Cartagena,1,extra caliente
+PED-0450,,,,Mocha,4.0,14900.0,Nequi,Medellín,5,
+,,,uJan Díaz,Latte,4.0,16500.0,Efectivo,,5,caliente porfavor
+PED-0452,,06:02:00,,Mocha,4.0,14100.0,Nequi,Cali,3,sin azúcar
+PED-0453,,,Lusi López,Mocha,4.0,8400.0,Nequi,Medellín,5,
+PED-0454,,15:32:00,,Frappé,2.0,,transferencia,Cali,5,doble shot
+PED-0455,,07:52:00,oSfía Ramos,Té verde,,5400.0,tarjeta débito,,5,
+PED-0456,,17:47:00,Aan Morales,Americano,4.0,9200.0,tarjeta débito,BOGOTA,2,
+PED-0457,,12:55:00,Sebastáin Jiménez,Chocolate caliente,4.0,10700.0,Tarjeta,Cartagena,4,
+PED-0458,,10:41:00,Joreg Herrera,Machiato,,7400.0,,,3,sin lactosa
+PED-0459,,,Sebastiná Herrera,,1.0,,Nequi,Cali,1,extra caliente
+PED-0460,,18:30:00,Daivd Muñoz,Latte,5.0,10000.0,,,3,
+PED-0461,,,Marinaa Morales,Té verde,1.0,5400.0,transferencia,Medellín,4,extra caliente
+PED-0462,,06:19:00,iDego Torres,Espresso,1.0,14000.0,tarjeta débito,BOGOTA,,
+PED-0463,,,uLis García,Té verde,3.0,11100.0,Tarjeta,Cartagena,1,
+PED-0464,,22:12:00,Luara Vargas,Té verde,1.0,5300.0,Efectivo,,1,
+PED-0465,,15:38:00,Naatlia Jiménez,Espresso,2.0,16400.0,transferencia,,5,extra caliente
+PED-0466,,,Camlia Jiménez,Latte,4.0,14400.0,DaviPlata,,1,
+PED-0467,,16:24:00,Carols Pérez,Té verde,4.0,10700.0,Efectivo,Cali,4,
+PED-0468,,,Jroge Ortiz,Americano,1.0,6600.0,Efectivo,Cali,3,
+PED-0469,,12:20:00,Juna Vargas,Mocha,5.0,6100.0,Efectivo,Cali,4,para llevar
+PED-0470,,,eFlipe Muñoz,Machiato,2.0,12700.0,Nequi,Medellín,,sin azúcar
+PED-0471,,,Alejnadro Ramírez,Americano,1.0,15600.0,Efectivo,,4,
+PED-0472,,,Jogre García,Cappuccino,1.0,,Efectivo,Barranquilla,2,sin lactosa
+PED-0473,,,oSfía Jiménez,Chocolate caliente,3.0,8900.0,Tarjeta,,4,
+,,,Jroge Ortiz,Chocolate caliente,4.0,,,Medellín,,doble shot
+PED-0475,,06:58:00,Isbaella Ortiz,Chocolate caliente,,,transferencia,BOGOTA,,extra caliente
+,,03:53:00,,Chocolate caliente,1.0,10600.0,transferencia,Medellín,5,
+PED-0477,,,,,2.0,7300.0,,,3,sin lactosa
+PED-0478,,12:07:00,,Latte,1.0,13200.0,transferencia,,,sin lactosa
+,,,Adnrés Muñoz,,,,tarjeta débito,Cartagena,4,sin azúcar
+PED-0480,,18:23:00,Joreg Castro,,3.0,12600.0,transferencia,BOGOTA,2,
+PED-0481,,12:52:00,,Cold brew,4.0,16100.0,Efectivo,BOGOTA,,para llevar
+PED-0482,,22:51:00,Valnetina Díaz,Té verde,5.0,11600.0,,Medellín,4,extra caliente
+,,,Marinaa Martínez,Americano,2.0,,,Cartagena,1,
+PED-0484,,09:29:00,aLura Herrera,Chocolate caliente,5.0,10200.0,DaviPlata,,4,
+PED-0485,,,Vaelntina Martínez,,5.0,15000.0,Nequi,BOGOTA,5,doble shot
+PED-0486,,,Marinaa García,Cold brew,,15000.0,Efectivo,BOGOTA,,para llevar
+PED-0487,,,Camial Torres,Latte,4.0,8300.0,,Medellín,,
+,,12:12:00,Mraía Díaz,Espresso,3.0,,Tarjeta,Cali,,doble shot
+PED-0489,,,Dieog Gutiérrez,Espresso,1.0,,,Pereira,3,
+PED-0490,,02:29:00,Valenitna Flores,Espresso,2.0,8400.0,Nequi,BOGOTA,1,
+PED-0491,,15:12:00,Feilpe Gutiérrez,Té verde,5.0,13000.0,Nequi,Medellín,4,caliente porfavor
+PED-0492,,,Davdi Castro,,5.0,7300.0,Tarjeta,Pereira,1,doble shot
+PED-0493,,21:27:00,,Cappuccino,1.0,17100.0,transferencia,BOGOTA,5,doble shot
+PED-0494,,,uJan Pérez,Chocolate caliente,,,Efectivo,BOGOTA,,doble shot
+PED-0495,,19:37:00,Adnrés González,Machiato,3.0,6200.0,Nequi,Barranquilla,2,para llevar
+PED-0496,,08:38:00,Deigo Sánchez,Chocolate caliente,1.0,8200.0,transferencia,Barranquilla,5,sin azúcar
+,,,Felpie Pérez,Cold brew,1.0,12100.0,DaviPlata,Barranquilla,5,
+PED-0498,,,aMriana Ramos,Americano,1.0,6600.0,Nequi,Cartagena,,doble shot
+PED-0499,,,Feliep García,Espresso,,17500.0,,Cali,5,para llevar
+PED-0500,,20:33:00,Isablela Díaz,Americano,5.0,12200.0,Efectivo,,5,

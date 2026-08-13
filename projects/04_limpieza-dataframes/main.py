@@ -11,7 +11,7 @@ sales_source = "./data/data-source/ventas_petshop.csv"
 sales_output_source = "./data/data-output/sales.csv"
 
 def capitalize_column(df: DataFrame, column: str) -> DataFrame: 
-    df[column] = df[column].str.capitalize()
+    df[column] = df[column].str.strip().str.capitalize()
     return df
 
 def save_csv(df: DataFrame, source_destination: str) -> None:

@@ -5,7 +5,7 @@ id_cliente,nombre_cliente,ciudad,segmento,email
 4,Juan Diaz,Bucaramanga,VIP,juan.diaz@correo.com
 5,Valentina Ruiz,Medellin,Nuevo,valentina.ruiz@correo.com
 6,Santiago Lopez,Medellin,Nuevo,santiago.lopez@correo.com
-7,Mariana Perez, bogota ,Recurrente,mariana.perez@correo.com
+7,Mariana Perez,Bogota,Recurrente,mariana.perez@correo.com
 8,Felipe Hernandez,Barranquilla,Nuevo,felipe.hernandez@correo.com
 9,Isabella Castro,Bucaramanga,Nuevo,isabella.castro@correo.com
 10,David Morales,Bucaramanga,VIP,david.morales@correo.com
@@ -20,4 +20,4 @@ id_cliente,nombre_cliente,ciudad,segmento,email
 19,Manuela Gil,Cali,Recurrente,manuela.gil@correo.com
 20,Alejandro Vega,Bogota,Recurrente,alejandro.vega@correo.com
 21,Gabriela Rios,Bogota,Nuevo,gabriela.rios@correo.com
-22,Diego Molina, medellin ,Recurrente,diego.molina@correo.com
+22,Diego Molina,Medellin,Recurrente,diego.molina@correo.com

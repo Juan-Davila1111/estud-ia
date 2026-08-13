@@ -35,6 +35,7 @@ sales = pd.read_csv(sales_source)
 sales = fill_nulls_from_column(sales, "cantidad", 0)
 sales["cantidad"] = sales["cantidad"].astype(int)
 sales = sales[sales["cantidad"] > 0]
+sales["fecha"] = sales["fecha"].str.replace('-', '/')
 
 save_csv(products, products_output_source)
 save_csv(clients, clients_output_source)

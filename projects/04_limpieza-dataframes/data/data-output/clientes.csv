@@ -1,0 +1,23 @@
+id_cliente,nombre_cliente,ciudad,segmento,email
+1,Camila Restrepo,Bogota,Recurrente,camila.restrepo@correo.com
+2,Andres Gomez,Bogota,Nuevo,andres.gomez@correo.com
+3,Laura Torres,Medellin,Recurrente,laura.torres@correo.com
+4,Juan Diaz,Bucaramanga,VIP,juan.diaz@correo.com
+5,Valentina Ruiz,Medellin,Nuevo,valentina.ruiz@correo.com
+6,Santiago Lopez,Medellin,Nuevo,santiago.lopez@correo.com
+7,Mariana Perez, bogota ,Recurrente,mariana.perez@correo.com
+8,Felipe Hernandez,Barranquilla,Nuevo,felipe.hernandez@correo.com
+9,Isabella Castro,Bucaramanga,Nuevo,isabella.castro@correo.com
+10,David Morales,Bucaramanga,VIP,david.morales@correo.com
+11,Sofia Ramirez,Cali,Recurrente,sofia.ramirez@correo.com
+12,Carlos Ortiz,Ciudad no especificada,Recurrente,carlos.ortiz@correo.com
+13,Daniela Vargas,Bogota,Recurrente,Sin correo
+14,Sebastian Rojas,Barranquilla,Nuevo,sebastian.rojas@correo.com
+15,Natalia Suarez,Medellin,Nuevo,natalia.suarez@correo.com
+16,Julian Mejia,Barranquilla,Nuevo,julian.mejia@correo.com
+17,Paula Cardenas,Barranquilla,VIP,paula.cardenas@correo.com
+18,Nicolas Pena,Bucaramanga,Nuevo,nicolas.pena@correo.com
+19,Manuela Gil,Cali,Recurrente,manuela.gil@correo.com
+20,Alejandro Vega,Bogota,Recurrente,alejandro.vega@correo.com
+21,Gabriela Rios,Bogota,Nuevo,gabriela.rios@correo.com
+22,Diego Molina, medellin ,Recurrente,diego.molina@correo.com

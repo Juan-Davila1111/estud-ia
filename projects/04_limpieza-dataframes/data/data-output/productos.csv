@@ -1,0 +1,13 @@
+id_producto,nombre_producto,categoria,precio_unitario,costo_unitario
+1,Concentrado Perro 10kg,Alimento,68621,41825
+2,Concentrado Gato 5kg,Alimento,62505,38011
+3,Snacks Naturales,Alimento,69025,30712
+4,Pelota de Goma,Juguetes,31186,16892
+5,Rascador para Gato,Juguetes,20381,12790
+6,Cuerda Mordedora,Juguetes,28376,8632
+7,Correa Ajustable,Accesorios,51021,25828
+8,Cama Ortopedica,Accesorios,54841,28992
+9,Comedero Doble,Accesorios,59222,25363
+10,Shampoo Antipulgas,Salud,48815,22880
+11,Vitaminas Caninas,Salud,49193,14850
+12,Antiparasitario,Salud,43696,13559
